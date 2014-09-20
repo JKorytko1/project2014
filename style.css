@@ -1,11 +1,11 @@
 
 .navbar-wrapper {
 	margin-top: 20px;
+	margin-left: 180px;
 	position: absolute;
 	top: 0;
 	right: 0;
 	left: 0;
-	
 }
 
 .navbar-wrapper .navbar {
@@ -26,8 +26,8 @@
 
 .navbar-brand {
 	font-size: 20px;
-	padding-left: 35px;
-	padding-right: 35px;
+	padding-left: 25px;
+	padding-right: 25px;
 }
 
 .carousel-caption p {
@@ -68,3 +68,59 @@ h2 {
 hr {
 	border-top: 1px solid #d6d6d6;
 }
+
+
+/*
+ * Sidebar
+ */
+
+@media (min-width: 400px) {
+  .sidebar {
+    position: fixed;
+    top: 20;
+    left: 0;
+    z-index: 0;
+    display: block;
+    padding: 30px;
+    overflow-x: hidden;
+    overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+    background-color: white;
+  }
+}
+
+/* Sidebar navigation */
+.nav-sidebar {
+  margin-right: -31px; /* 30px padding + 1px border */
+  margin-bottom: 20px;
+  margin-left: -20px;
+}
+.nav-sidebar > li > a {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+  color: #fff;
+  background-color: #428bca;
+}
+
+
+/*
+ * Main content
+ */
+
+.main {
+  padding: 20px;
+  margin-top: 100px;
+}
+@media (min-width: 768px) {
+  .main {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+.main .page-header {
+  margin-top: 0;
+}
+
