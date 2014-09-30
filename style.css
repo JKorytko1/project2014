@@ -143,3 +143,16 @@ footer {
 	background-color: #ececec;
 	border-top: 1px solid #d2d2d2;
 }
+div#carousel{
+	margin-top: -91px;
+}
+.navbar-wrapper .container{
+	max-width: 1200px;
+	min-width: 970px;
+	width: 970px;
+	padding-top: 12px;
+}
+.container .navbar-static-top{
+	border-radius: 9px;
+	border-color: #080808;
+}
