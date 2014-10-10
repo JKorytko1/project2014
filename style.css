@@ -146,11 +146,8 @@ footer {
 div#carousel{
 	margin-top: -91px;
 }
-.navbar-wrapper .container{
-	max-width: 1200px;
-	min-width: 970px;
-	width: 970px;
-	padding-top: 12px;
+.navbar-wrapper{
+	width: 100%;
 }
 .container .navbar-static-top{
 	border-radius: 9px;
