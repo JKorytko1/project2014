@@ -1,70 +1,16 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>Кафедра "Системы и Процессы Управления"</title>
-	<link href="css/bootstrap.min.css" rel="stylesheet">
-	<link rel="stylesheet" href="style.css">
-</head>
-<body>
- <!-- Навигация -->
-  <div class="navbar-wrapper">
-      <div class="navbar navbar-inverse navbar-static-top">
-        <div class="navbar-header">
-          <a href="index.html" class="navbar-brand">КАФЕДРА Системы и Процессы Управления</a>
-        </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-              <li><a href="#">Новости</a></li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">О кафедре <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                  <li><a href="department.html">История кафедры</a></li>
-                  <li><a href="teachers.html">Преподаватели</a></li>
-                  <li><a href="speciality.html">Специальности</a></li>
-                  <li><a href="discipline.html">Предметы</a></li>
-              </ul>
-              </li>
-              <li><a href="#">Абитуриенту</a></li>
-              <li><a href="conference.html">Конференции</a></li>
-              <li><a href="contacts.html">Контакты</a></li>
-          </ul>
-        </div>      
-      </div>
-  </div>
-    <p>
-	<div class="container-fluid">
-      <div class="row">
-	   <div class="col-sm-3 col-md-2 sidebar">
-          <ul class="nav nav-sidebar">
-            <li><h4>Научные и методические материалы</h4></li>
-            <li><a href="#">Книги, методические пособия</a></li>
-            <li><a href="#">Студенческие проекты</a></li>
-            <li><a href="#">Статьи</a></li>
-          </ul>
-          <ul class="nav nav-sidebar">
-            <li><h4>Студенту</h4></li>
-            <li><a href="">Группы</a></li>
-            <li><a href="">Фотогалерея</a></li>
-            <li><a href="">Профсоюз студентов</a></li>
-          </ul>
-          <ul class="nav nav-sidebar">
-		    <li><h4>Ссылки на ресурсы</h4></li>
-            <li><a href="http://ivit.freeforum.bz" target="_blank">Форум Technopages</a></li>
-            <li><a href="http://myacademy.com.ua" target="_blank">Учебные материалы on line</a></li>
-            <li><a href="http://grades.aasiutin.com" target="_blank">Электронная зачетка</a></li>
-          </ul>
-        </div>
-	</div>
-	</div>
-		</p>
+﻿ <?php include('block/header.php');?>
+ <?php include('block/left-menu.php');?>
+
 	<!-- Контент -->
+
+  <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+  <div class="row">
 <center>
 
 <br></br>
-<p><img src="image/mat1.jpg" align="left"></p>
+<p><img src="image/mat1.jpg" style="float:left"></p>
 <center>
-<h1 style="color:Red">Прикладная математика</h1></p>
+<h1 style="color:Red">Прикладная математика</h1>
 </center>
 <br></br>
 <p><big><b>Дипломы по специальности:</b></big></p>
@@ -90,7 +36,7 @@
 <p>Наших выпускников отличает широкая эрудиция и высокий профессионализм. Достаточно сказать, что многие из них связаны с созданием систем 
 управления ракетой-носителем «Энергия», космическими аппаратами «Буран», «Квант», «Кристалл», серии метеоспутников, спутников связи. 
 Уровень подготовки специалистов, выпускаемых нашей кафедрой, соответствует самым высоким мировым требованиям.</p>
-<p><img src="image/mat2.jpg" align="right"></p>
+<p><img src="image/mat2.jpg" style="float:right"></p>
 <br></br>
 
 <p><b>Обучение на нашей специальности обеспечивает:</b></p>
@@ -158,25 +104,9 @@
 <p><a href="discipline.html#Digital signal and image processing">Цифровая обработка сигналов и изображений</a></p>
 <p><a href="discipline.html#Numerical methods of mathematical physics">Численные методы математической физики</a></p>
 <p><a href="discipline.html#Numerical methods for optimal control">Численные методы оптимального управления</a></p>
-
+</center>
 	<!-- Подвал -->
-		<footer>
-        <center>
-        <p>
-        <a href="department.html">История кафедры |</a>
-        <a href="teachers.html">Преподаватели |</a>
-        <a href="speciality.html">Специальности |</a>
-        <a href="contacts.html">Контакты</a>
-	
-        </p>
-         <p>
-           Copyright © 2014 
-           <a href="http://www.kpi.kharkov.ua/ru/" target="_blank">НТУ "ХПИ"</a>
-         </p>
-        </center>
-      </footer>
+ <?php include('block/footer.php');?>
+</div>
+</div>
 
-	<script src="http://code.jquery.com/jquery-latest.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-</body>
-</html>
