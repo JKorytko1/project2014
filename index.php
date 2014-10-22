@@ -1,4 +1,4 @@
- <?php include('block/header.php');?>
+﻿ <?php include('block/header.php');?>
 	<!-- Карусель -->
 	<div id="carousel" class="carousel slide">
     <!— Индикаторы слайдов —>
@@ -10,29 +10,38 @@
                 <li data-target="#carousel" data-slide-to="4"></li>
         </ol>
     <!— Слайды —>
-    <div class="carousel-inner">		
+    <div class="carousel-inner">
+	
             <div class="item active">
 			<center>
             <img src="image/001.jpg" alt="">
 			</center>
             <div class="carousel-caption"> 
-		<p>
-        <h2>
-		Кафедра Cистем и процессов управления (до 2001 года — автоматического управления движением) была создана в 1964 году в связи с актуальными потребностями технического прогресса и острой необходимостью подготовки инженеров высочайшего класса с фундаментальной механико-математической подготовкой.
-        </h2>
-		</p> 
+		<p> 
+		<h1>
+		<font color="#FFD700">
+		<span style="font-family:Impact">
+		Кафедра Cистем и процессов управления (до 2001 года — автоматического управления движением) была создана в 1964 году в связи с актуальными потребностями технического прогресса.
+		</span>
+		</font>
+		</h1>
+		</p>
             </div>
         </div>
-		
+	
             <div class="item">
-			<center>
+		    <center>
             <img src="image/002.jpg" alt="">
 			</center>
             <div class="carousel-caption">
-        <p>
-		<h2>
-        Студенты, обучающиеся по специальности Информатика, изучают не только информационные технологии, но и различные математические курсы, такие как Математический анализ, Теория вероятностей, Дифференциальные уравнения, Методы оптимизации, Теория принятия решений и другие.
-        </h2>
+		<p> 
+		<h1>
+		<font color="#FFD700">
+		<span style="font-family:Impact">	
+        Студенты, обучающиеся по специальности Информатика, изучают не только информационные технологии, но и различные математические курсы, такие как Математический анализ, Теория вероятностей и другие.
+        </span>
+		</font>
+		</h1>
 		</p>
             </div>
         </div>
@@ -42,25 +51,32 @@
             <img src="image/003.jpg" alt="">
 			</center>
             <div class="carousel-caption">
-        <p>
-		<h2>
-        Полученное студентами инфиза фундаментальное образование по математическим и компьютерным дисциплинам вот уже не один десяток лет позволяет им стать специалистами высокой квалификации с мощным творческим потенциалом, мобильными в усвоении новых знаний и приложении своих профессиональных сил в различных областях науки.
-        </h2>
+        <p> 
+		<h1>
+		<font color="#FFD700">
+		<span style="font-family:Impact">
+        Полученное студентами инфиза фундаментальное образование по математическим и компьютерным дисциплинам вот уже не один десяток лет позволяет им стать специалистами высокой квалификации с мощным творческим потенциалом.
+        </span>
+		</font>
+		</h1>
 		</p>
             </div>
         </div>
-
+		
             <div class="item">
 			<center>
             <img src="image/004.jpg" alt="">
 			</center>
             <div class="carousel-caption">
-        <p>
-		<h2>
-        Для меня долгое время было загадкой, как что-то очень дорогое и технологичное может быть столь бесполезным. И вскоре я осознал, что компьютер — это глупая машина, обладающая способностями выполнять невероятно умные вещи, тогда как программисты — это умные люди, у которых талант делать невероятные глупости. Короче, они нашли друг друга.
-        — Bill Bryson
-		</h2>
-        </p>
+        <p> 
+		<h1>
+		<font color="#FFD700">
+		<span style="font-family:Impact">
+        Профилизация подготовки будущих специалистов, принятая на кафедре - «Информационное обеспечение систем управления реального времени».
+		</span>
+		</font>
+		</h1>
+		</p>
             </div>
         </div>
 
@@ -69,12 +85,15 @@
             <img src="image/005.jpg" alt="">
 			</center>
             <div class="carousel-caption">
-        <p>
-		<h2>
-        Программирование сегодня — это гонка разработчиков программ, стремящихся писать программы больше и с лучшей идиотоустойчивостью, и вселенной, которая пытается создавать больших и лучших идиотов. Пока вселенная побеждает.
-        — Rick Cook
-		</h2>
-        </p>
+        <p> 
+		<h1>
+		<font color="#FFD700">
+		<span style="font-family:Impact">
+        Выпускники имеют возможность работать в конструкторских организациях, информационно-аналитических службах, центрах новых информационных технологий и финансовых структурах.
+		</span>
+		</font>
+		</h1>
+		</p>
             </div>
         </div>	
     </div>
@@ -104,36 +123,44 @@
 
     		<div class="col-sm-8 blog-main">
 				<div class="blog-post">
-		            <h2 class="blog-post-title">New feature</h2>
-		            <p class="blog-post-meta">December 14, 2013 by <a href="#">Chris</a></p>
+		            
+		            <h2 class="blog-post-title">Изменения графика учебного процесса</h2>
+		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
+		            
+		            <p align="justify">В 2014–2015 учебный год внесены некоторые изменения отдельных элементов графика учебного процесса. Однако эти изменения не коснутся количества отведенного для учебы времени и не повлияют на качество учебного процесса. То есть, количество часов останется прежним: 16 недель лекционных и практических занятий с понедельника по пятницу. Суббота останется выходным днем.<a href="news.html" target="_blank"> Читать далее</a></p>
 
-		            <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-		            <ul>
-		              <li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
-		              <li>Donec id elit non mi porta gravida at eget metus.</li>
-		              <li>Nulla vitae elit libero, a pharetra augue.</li>
-		            </ul>
-		            <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
-		            <p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
-	          	</div>
-	          	<div class="blog-post">
-		            <h2 class="blog-post-title">Another blog post</h2>
-		            <p class="blog-post-meta">December 23, 2013 by <a href="#">Jacob</a></p>
+				
+	       </div>
+	          	
+	       <div class="blog-post">
+		            <h2 class="blog-post-title">Товажнянский продолжает свою работу в должности ректора</h2>
+		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
 
-		            <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-		            <blockquote>
-		              <p>Curabitur blandit tempus porttitor. <strong>Nullam quis risus eget urna mollis</strong> ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-		            </blockquote>
-		            <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
-		            <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-          		</div>
+		            <p align="justify">Профессор Товажнянский Леонид Леонидович продолжает свою работу в должности ректора Национального технического университета «Харьковский политехнический институт». После окончания очередного срока (контракта) 19 января 2015 года будет объявлен конкурс на замещение должности ректора Национального технического университета «Харьковский политехнический институт» в соответствии с действующим законодательством Украины.<a href="news.html" target="_blank"> Читать далее</a></p>
+          </div>
+	          
+          <div class="blog-post">
+		            <h2 class="blog-post-title">ХХІІ Международная научно-практическая конференция MicroCAD - 2014</h2>
+		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
+
+		            <p align="justify">15-17 октября в Национальном техническом университете «Харьковский политехнический институт» состоялась ХХІІ Международная научно-практическая конференция MicroCAD - 2014. Конференция проводилась при поддержке Министерства образования и науки Украины, Академии педагогических наук. В этом году в работе 28 секций приняли участие около 1000 участников, представляющих научный потенциал современной молодежи Украины и мира.<a href="news.html" target="_blank"> Читать далее</a></p>
+          </div>
+
+          <div class="blog-post">
+                <h2 class="blog-post-title">Группа СПУ "В Контакте"</h2>
+                <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
+
+                <p align="justify">В социальной сети "В контакте" существует активно развивающаяся группа. В ней Вы можете найти интересную информацию и пообщаться с преподавателями кафедры.</p>
+                <p>Присоединяйтесь! Адрес: <a href="http://vk.com/official_spu" target="_blank">http://vk.com/official_spu</a></p>
+          </div>
+
 	            <ul class="pager">
-	            	<li><a href="#">Previous</a></li>
-	            	<li><a href="#">Next</a></li>
+	            	<li><a href="news.html" target="_blank">Читать все новости</a></li>
+	            	<!--<li><a href="#">Next</a></li> -->
 	            </ul>
 	        </div>
 
-			<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+			<!--<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
 	          <div class="sidebar-module sidebar-module-inset">
 	            <h4>About</h4>
 	            <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
@@ -165,7 +192,7 @@
 	          </div>
 	        </div>
 
-    	</div>
+    	</div> -->
     </div>
 
 	<!-- Подвал -->
