@@ -118,81 +118,42 @@
       </div>
     </div>
 
+	
     <div class="container" id="news">
     	<div class="row">
+    		<div class="col-md-12 blog-main">
 
-    		<div class="col-sm-8 blog-main">
 				<div class="blog-post">
-		            
 		            <h2 class="blog-post-title">Изменения графика учебного процесса</h2>
 		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
-		            
 		            <p align="justify">В 2014–2015 учебный год внесены некоторые изменения отдельных элементов графика учебного процесса. Однако эти изменения не коснутся количества отведенного для учебы времени и не повлияют на качество учебного процесса. То есть, количество часов останется прежним: 16 недель лекционных и практических занятий с понедельника по пятницу. Суббота останется выходным днем.<a href="news.html" target="_blank"> Читать далее</a></p>
-
-				
-	       </div>
+	       		</div>
 	          	
-	       <div class="blog-post">
+	       		<div class="blog-post">
 		            <h2 class="blog-post-title">Товажнянский продолжает свою работу в должности ректора</h2>
 		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
-
 		            <p align="justify">Профессор Товажнянский Леонид Леонидович продолжает свою работу в должности ректора Национального технического университета «Харьковский политехнический институт». После окончания очередного срока (контракта) 19 января 2015 года будет объявлен конкурс на замещение должности ректора Национального технического университета «Харьковский политехнический институт» в соответствии с действующим законодательством Украины.<a href="news.html" target="_blank"> Читать далее</a></p>
-          </div>
+          		</div>
 	          
-          <div class="blog-post">
+          		<div class="blog-post">
 		            <h2 class="blog-post-title">ХХІІ Международная научно-практическая конференция MicroCAD - 2014</h2>
 		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
-
 		            <p align="justify">15-17 октября в Национальном техническом университете «Харьковский политехнический институт» состоялась ХХІІ Международная научно-практическая конференция MicroCAD - 2014. Конференция проводилась при поддержке Министерства образования и науки Украины, Академии педагогических наук. В этом году в работе 28 секций приняли участие около 1000 участников, представляющих научный потенциал современной молодежи Украины и мира.<a href="news.html" target="_blank"> Читать далее</a></p>
-          </div>
+          		</div>
 
-          <div class="blog-post">
-                <h2 class="blog-post-title">Группа СПУ "В Контакте"</h2>
-                <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
-
-                <p align="justify">В социальной сети "В контакте" существует активно развивающаяся группа. В ней Вы можете найти интересную информацию и пообщаться с преподавателями кафедры.</p>
-                <p>Присоединяйтесь! Адрес: <a href="http://vk.com/official_spu" target="_blank">http://vk.com/official_spu</a></p>
-          </div>
+          		<div class="blog-post">
+                	<h2 class="blog-post-title">Группа СПУ "В Контакте"</h2>
+                	<p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
+                	<p align="justify">В социальной сети "В контакте" существует активно развивающаяся группа. В ней Вы можете найти интересную информацию и пообщаться с преподавателями кафедры.</p>
+                	<p>Присоединяйтесь! Адрес: <a href="http://vk.com/official_spu" target="_blank">http://vk.com/official_spu</a></p>
+          		</div>
 
 	            <ul class="pager">
 	            	<li><a href="news.html" target="_blank">Читать все новости</a></li>
-	            	<!--<li><a href="#">Next</a></li> -->
 	            </ul>
-	        </div>
 
-			<!--<div class="col-sm-3 col-sm-offset-1 blog-sidebar">
-	          <div class="sidebar-module sidebar-module-inset">
-	            <h4>About</h4>
-	            <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
-	          </div>
-	          <div class="sidebar-module">
-	            <h4>Archives</h4>
-	            <ol class="list-unstyled">
-	              <li><a href="#">March 2014</a></li>
-	              <li><a href="#">February 2014</a></li>
-	              <li><a href="#">January 2014</a></li>
-	              <li><a href="#">December 2013</a></li>
-	              <li><a href="#">November 2013</a></li>
-	              <li><a href="#">October 2013</a></li>
-	              <li><a href="#">September 2013</a></li>
-	              <li><a href="#">August 2013</a></li>
-	              <li><a href="#">July 2013</a></li>
-	              <li><a href="#">June 2013</a></li>
-	              <li><a href="#">May 2013</a></li>
-	              <li><a href="#">April 2013</a></li>
-	            </ol>
-	          </div>
-	          <div class="sidebar-module">
-	            <h4>Elsewhere</h4>
-	            <ol class="list-unstyled">
-	              <li><a href="#">GitHub</a></li>
-	              <li><a href="#">Twitter</a></li>
-	              <li><a href="#">Facebook</a></li>
-	            </ol>
-	          </div>
 	        </div>
-
-    	</div> -->
+    	</div>
     </div>
 
 	<!-- Подвал -->
