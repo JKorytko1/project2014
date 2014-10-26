@@ -7,11 +7,8 @@
 <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
   <div class="row">
     <img src="image/inform1.jpg" style="float:right">
-      <h1 style="color:Green">Информатика</h1>
-    <p><big><b>Дипломы по специальности:</b></big></p>
-    <p><i>- Бакалавр - </i></p>
-    <p><i>- Специалист - </i></p>
-    <p><i>- Магистр - </i></p>
+      
+	
     <p><big>Настоящее время </big>- развития и широкого использования информационных технологий, более возрастает потребность в разработчиках 
     программного обеспечения общего и специального назначения, которые рядом с универсальной компьютерной подготовкой, имеют также 
     и фундаментальное математическое образование. Именно таких специалистов готовит кафедра «Системы и процессы управления» как на 
@@ -39,46 +36,47 @@
     <p>
       <a href="discipline.html"><h1 style="color:Green"> Дисциплины </h1></a>
     </p>
-    <p><a href="discipline.html#Artificial Intelligence Systems">Системы искусственного интеллекта</a></p>
-    <p><a href="discipline.html#UNIX like operating systems">UNIX подобные операционные системы</a></p>
-    <p><a href="discipline.html#Algebra and geometry">Алгебра и геометрия</a></p>
-    <p><a href="discipline.html#Algorithms and Data Structures">Алгоритмы и структуры данных</a></p>
-    <p><a href="discipline.html#data Analysis">Анализ данных</a></p>
-    <p><a href="discipline.html#Architecture of Computer Systems">Архитектура вычислительных систем</a></p>
-    <p><a href="discipline.html#Data and Knowledge Base">Базы данных и знаний</a></p>
-    <p><a href="discipline.html#Introduction to the profession1">Введение в специальность</a></p>
-    <p><a href="discipline.html#discrete Mathematics">Дискретная математика</a></p>
-    <p><a href="discipline.html#differential Equations">Дифференциальные уравнения</a></p>
-    <p><a href="discipline.html#pulse technique">Импульсная техника</a></p>
-    <p><a href="discipline.html#Smart Internet Technology">Интеллектуальные интернет технологии</a></p>
-    <p><a href="discipline.html#Intelligent Systems">Интеллектуальные системы</a></p>
-    <p><a href="discipline.html#Information Security">Информационная безопасность</a></p>
-    <p><a href="discipline.html#Artificial neural networks">Искусственные нейронные сети</a></p>
-    <p><a href="discipline.html#operations Research">Исследование операций</a></p>
-    <p><a href="discipline.html#networks">Компьютерные сети</a></p>
-    <p><a href="discipline.html#Mathematical logic and the theory of algorithms">Математическая логика и теория алгоритмов</a></p>
-    <p><a href="discipline.html#optimization Methods">Методы оптимизации</a></p>
-    <p><a href="discipline.html#Modeling of dynamic systems and electrical">Моделирование динамических и электротехнических систем</a></p>
-    <p><a href="discipline.html#Object Oriented Programming">Объектно ориентированное программирование</a></p>
-    <p><a href="discipline.html#Operating Systems and System Programming">Операционные системы и системное программирование</a></p>
-    <p><a href="discipline.html#Real time operating system">Операционные системы реального времени</a></p>
-    <p><a href="discipline.html#Organization and processing of electronic information">Организация и обработка электронной информации</a></p>
-    <p><a href="discipline.html#Web-based">Основы Интернет-технологий</a></p>
-    <p><a href="discipline.html#Fundamentals of mathematical modeling and system analysis">Основы математического моделирования и системного анализа</a></p>
-    <p><a href="discipline.html#Programming">Программирование</a></p>
-    <p><a href="discipline.html#Software Computer Systems">Программное обеспечение вычислительных систем</a></p>
-    <p><a href="discipline.html#Special programming languages ​​(Android)">Специальные языки программирования (Android)</a></p>
-    <p><a href="discipline.html#Special programming languages ​​(Java)">Специальные языки программирования (Java)</a></p>
-    <p><a href="discipline.html#Probability theory and mathematical statistics">Теория вероятностей и математическая статистика</a></p>
-    <p><a href="discipline.html#Information Theory and Coding">Теория информации и кодирование</a></p>
-    <p><a href="discipline.html#programming theory">Теория программирования</a></p>
-    <p><a href="discipline.html#control Theory">Теория управления</a></p>
-    <p><a href="discipline.html#programming Technologies">Технологии программирования</a></p>
-    <p><a href="discipline.html#functional analysis">Функциональный анализ</a></p>
-    <p><a href="discipline.html#Digital signal and image processing">Цифровая обработка сигналов и изображений</a></p>
-    <p><a href="discipline.html#Digital control systems">Цифровые системы управления</a></p>
-    <p><a href="discipline.html#numerical Methods">Численные методы</a></p>
-    <p><a href="discipline.html#Computer and microprocessor systems">ЭВМ и микропроцессорные системы</a></p>
+    <p><big><a href="discipline.php#UNIX like operating systems">UNIX подобные операционные системы</a></p>
+    <p><a href="discipline.php#Algebra and geometry">Алгебра и геометрия</a></p>
+    <p><a href="discipline.php#Algorithms and Data Structures">Алгоритмы и структуры данных</a></p>
+    <p><a href="discipline.php#data Analysis">Анализ данных</a></p>
+    <p><a href="discipline.php#Architecture of Computer Systems">Архитектура вычислительных систем</a></p>
+    <p><a href="discipline.php#Data and Knowledge Base">Базы данных и знаний</a></p>
+    <p><a href="discipline.php#Introduction to the profession">Введение в специальность</a></p>
+    <p><a href="discipline.php#discrete Mathematics">Дискретная математика</a></p>
+    <p><a href="discipline.php#differential Equations">Дифференциальные уравнения</a></p>
+    <p><a href="discipline.php#pulse technique">Импульсная техника</a></p>
+    <p><a href="discipline.php#Smart Internet Technology">Интеллектуальные интернет технологии</a></p>
+    <p><a href="discipline.php#Intelligent Systems">Интеллектуальные системы</a></p>
+    <p><a href="discipline.php#Information Security">Информационная безопасность</a></p>
+    <p><a href="discipline.php#Artificial neural networks">Искусственные нейронные сети</a></p>
+    <p><a href="discipline.php#operations Research">Исследование операций</a></p>
+    <p><a href="discipline.php#networks">Компьютерные сети</a></p>
+    <p><a href="discipline.php#Mathematical logic and the theory of algorithms">Математическая логика и теория алгоритмов</a></p>
+    <p><a href="discipline.php#optimization Methods">Методы оптимизации</a></p>
+    <p><a href="discipline.php#Modeling of dynamic systems and electrical">Моделирование динамических и электротехнических систем</a></p>
+    <p><a href="discipline.php#Object Oriented Programming">Объектно ориентированное программирование</a></p>
+    <p><a href="discipline.php#Operating Systems and System Programming">Операционные системы и системное программирование</a></p>
+    <p><a href="discipline.php#Real time operating system">Операционные системы реального времени</a></p>
+    <p><a href="discipline.php#Organization and processing of electronic information">Организация и обработка электронной информации</a></p>
+    <p><a href="discipline.php#Web-based">Основы Интернет-технологий</a></p>
+    <p><a href="discipline.php#Fundamentals of mathematical modeling and system analysis">Основы математического моделирования и системного анализа</a></p>
+    <p><a href="discipline.php#Programming">Программирование</a></p>
+    <p><a href="discipline.php#Artificial Intelligence Systems">Системы искусственного интеллекта</a></p>
+	<p><a href="discipline.php#Software Computer Systems">Программное обеспечение вычислительных систем</a></p>
+    <p><a href="discipline.php#Special programming languages ​​(Android)">Специальные языки программирования (Android)</a></p>
+    <p><a href="discipline.php#Special programming languages ​​(Java)">Специальные языки программирования (Java)</a></p>
+    <p><a href="discipline.php#Probability theory and mathematical statistics">Теория вероятностей и математическая статистика</a></p>
+    <p><a href="discipline.php#Information Theory and Coding">Теория информации и кодирование</a></p>
+    <p><a href="discipline.php#programming theory">Теория программирования</a></p>
+    <p><a href="discipline.php#control Theory">Теория управления</a></p>
+    <p><a href="discipline.php#programming Technologies">Технологии программирования</a></p>
+    <p><a href="discipline.php#functional analysis">Функциональный анализ</a></p>
+    <p><a href="discipline.php#Digital signal and image processing">Цифровая обработка сигналов и изображений</a></p>
+    <p><a href="discipline.php#Digital control systems">Цифровые системы управления</a></p>
+    <p><a href="discipline.php#numerical Methods">Численные методы</a></p>
+    <p><a href="discipline.php#Computer and microprocessor systems">ЭВМ и микропроцессорные системы</a></big></p>
+  </center>
   </center>
 -->
 
@@ -88,17 +86,13 @@
             <h1 align="center" class="blog-post-title" style="color:Green;">Информатика</h1>
 
             <div class="blog-post" style="margin-bottom: 35px;">
-                <p><big><b>Дипломы по специальности:</b></big></p>
-                <p><i>- Бакалавр - </i></p>
-                <p><i>- Специалист - </i></p>
-                <p style="margin-bottom: 30px;"><i>- Магистр - </i></p>
-                
+                              
                 <img src="image/inform1.jpg" style="margin-left: 15px; float:right">
-                <p align="justify"><big>Настоящее время </big>- развития и широкого использования информационных технологий, более возрастает потребность в разработчиках 
+                				<p align="justify"><b>Настоящее время </b>- время развития и широкого использования информационных технологий, более возрастает потребность в разработчиках 
                 программного обеспечения общего и специального назначения, которые рядом с универсальной компьютерной подготовкой, имеют также 
-                и фундаментальное математическое образование. Именно таких специалистов готовит кафедра «Системы и процессы управления» как на 
+                и фундаментальное математическое образование. </p> <p>Именно таких специалистов готовит кафедра «Системы и процессы управления» как на 
                 бюджетной, так и на контрактной основе. </p>
-                <br>
+                <br></br>
                 <p align="justify"><b>Содержание образования: </b>современные компьютерные технологии, языки программирования С++, Асемблер, Java, php и др.; базы данных, системы 
                 сохранения информации, операционные системы (ОС), в том числе ОС реального времени; компьютерные сети, Internet-технологии, системы 
                 автоматизированного проектирования систем управления и программного обеспечения. Все это осуществляется на базе фундаментальной 
@@ -112,54 +106,53 @@
                 но и уметь доводить разработки до уровня специального программного и аппаратного обеспечения. Все это делает нашу специальность привлекательной 
                 для тех, кто старается стать действительно высококвалифицированным специалистом современного уровня.</p>
                 <br>
-                <p align="justify">Возможные места работы выпускников: конструкторские организации, информационно-аналитические службы, центры новых информационных 
+                <p align="justify"><b>Возможные места работы выпускников:</b> конструкторские организации, информационно-аналитические службы, центры новых информационных 
                 технологий, вычислительные центры, производственные и финансовые структуры.</p>
                  <br>
-                <p align="justify">Гарантированное трудоустройство: АО «Хартрон», ВО «Монолит», НИИ комплексной механизации и автоматизации.</p>
+                <p align="justify"><b>Гарантированное трудоустройство:</b> АО «Хартрон», ВО «Монолит», НИИ комплексной механизации и автоматизации.</p>
             </div>
-
-            <p><a href="discipline.html"><h1> Дисциплины </h1></a></p>
-            <p><a href="discipline.html#Artificial Intelligence Systems">Системы искусственного интеллекта</a></p>
-            <p><a href="discipline.html#UNIX like operating systems">UNIX подобные операционные системы</a></p>
-            <p><a href="discipline.html#Algebra and geometry">Алгебра и геометрия</a></p>
-            <p><a href="discipline.html#Algorithms and Data Structures">Алгоритмы и структуры данных</a></p>
-            <p><a href="discipline.html#data Analysis">Анализ данных</a></p>
-            <p><a href="discipline.html#Architecture of Computer Systems">Архитектура вычислительных систем</a></p>
-            <p><a href="discipline.html#Data and Knowledge Base">Базы данных и знаний</a></p>
-            <p><a href="discipline.html#Introduction to the profession1">Введение в специальность</a></p>
-            <p><a href="discipline.html#discrete Mathematics">Дискретная математика</a></p>
-            <p><a href="discipline.html#differential Equations">Дифференциальные уравнения</a></p>
-            <p><a href="discipline.html#pulse technique">Импульсная техника</a></p>
-            <p><a href="discipline.html#Smart Internet Technology">Интеллектуальные интернет технологии</a></p>
-            <p><a href="discipline.html#Intelligent Systems">Интеллектуальные системы</a></p>
-            <p><a href="discipline.html#Information Security">Информационная безопасность</a></p>
-            <p><a href="discipline.html#Artificial neural networks">Искусственные нейронные сети</a></p>
-            <p><a href="discipline.html#operations Research">Исследование операций</a></p>
-            <p><a href="discipline.html#networks">Компьютерные сети</a></p>
-            <p><a href="discipline.html#Mathematical logic and the theory of algorithms">Математическая логика и теория алгоритмов</a></p>
-            <p><a href="discipline.html#optimization Methods">Методы оптимизации</a></p>
-            <p><a href="discipline.html#Modeling of dynamic systems and electrical">Моделирование динамических и электротехнических систем</a></p>
-            <p><a href="discipline.html#Object Oriented Programming">Объектно ориентированное программирование</a></p>
-            <p><a href="discipline.html#Operating Systems and System Programming">Операционные системы и системное программирование</a></p>
-            <p><a href="discipline.html#Real time operating system">Операционные системы реального времени</a></p>
-            <p><a href="discipline.html#Organization and processing of electronic information">Организация и обработка электронной информации</a></p>
-            <p><a href="discipline.html#Web-based">Основы Интернет-технологий</a></p>
-            <p><a href="discipline.html#Fundamentals of mathematical modeling and system analysis">Основы математического моделирования и системного анализа</a></p>
-            <p><a href="discipline.html#Programming">Программирование</a></p>
-            <p><a href="discipline.html#Software Computer Systems">Программное обеспечение вычислительных систем</a></p>
-            <p><a href="discipline.html#Special programming languages ​​(Android)">Специальные языки программирования (Android)</a></p>
-            <p><a href="discipline.html#Special programming languages ​​(Java)">Специальные языки программирования (Java)</a></p>
-            <p><a href="discipline.html#Probability theory and mathematical statistics">Теория вероятностей и математическая статистика</a></p>
-            <p><a href="discipline.html#Information Theory and Coding">Теория информации и кодирование</a></p>
-            <p><a href="discipline.html#programming theory">Теория программирования</a></p>
-            <p><a href="discipline.html#control Theory">Теория управления</a></p>
-            <p><a href="discipline.html#programming Technologies">Технологии программирования</a></p>
-            <p><a href="discipline.html#functional analysis">Функциональный анализ</a></p>
-            <p><a href="discipline.html#Digital signal and image processing">Цифровая обработка сигналов и изображений</a></p>
-            <p><a href="discipline.html#Digital control systems">Цифровые системы управления</a></p>
-            <p><a href="discipline.html#numerical Methods">Численные методы</a></p>
-            <p><a href="discipline.html#Computer and microprocessor systems">ЭВМ и микропроцессорные системы</a></p>
-
+    <h1 style="color:Green" > Дисциплины </h1>
+    <p><big><a href="discipline.php#UNIX like operating systems">UNIX подобные операционные системы</a></p>
+    <p><a href="discipline.php#Algebra and geometry">Алгебра и геометрия</a></p>
+    <p><a href="discipline.php#Algorithms and Data Structures">Алгоритмы и структуры данных</a></p>
+    <p><a href="discipline.php#data Analysis">Анализ данных</a></p>
+    <p><a href="discipline.php#Architecture of Computer Systems">Архитектура вычислительных систем</a></p>
+    <p><a href="discipline.php#Data and Knowledge Base">Базы данных и знаний</a></p>
+    <p><a href="discipline.php#Introduction to the profession">Введение в специальность</a></p>
+    <p><a href="discipline.php#discrete Mathematics">Дискретная математика</a></p>
+    <p><a href="discipline.php#differential Equations">Дифференциальные уравнения</a></p>
+    <p><a href="discipline.php#pulse technique">Импульсная техника</a></p>
+    <p><a href="discipline.php#Smart Internet Technology">Интеллектуальные интернет технологии</a></p>
+    <p><a href="discipline.php#Intelligent Systems">Интеллектуальные системы</a></p>
+    <p><a href="discipline.php#Information Security">Информационная безопасность</a></p>
+    <p><a href="discipline.php#Artificial neural networks">Искусственные нейронные сети</a></p>
+    <p><a href="discipline.php#operations Research">Исследование операций</a></p>
+    <p><a href="discipline.php#networks">Компьютерные сети</a></p>
+    <p><a href="discipline.php#Mathematical logic and the theory of algorithms">Математическая логика и теория алгоритмов</a></p>
+    <p><a href="discipline.php#optimization Methods">Методы оптимизации</a></p>
+    <p><a href="discipline.php#Modeling of dynamic systems and electrical">Моделирование динамических и электротехнических систем</a></p>
+    <p><a href="discipline.php#Object Oriented Programming">Объектно ориентированное программирование</a></p>
+    <p><a href="discipline.php#Operating Systems and System Programming">Операционные системы и системное программирование</a></p>
+    <p><a href="discipline.php#Real time operating system">Операционные системы реального времени</a></p>
+    <p><a href="discipline.php#Organization and processing of electronic information">Организация и обработка электронной информации</a></p>
+    <p><a href="discipline.php#Web-based">Основы Интернет-технологий</a></p>
+    <p><a href="discipline.php#Fundamentals of mathematical modeling and system analysis">Основы математического моделирования и системного анализа</a></p>
+    <p><a href="discipline.php#Programming">Программирование</a></p>
+    <p><a href="discipline.php#Artificial Intelligence Systems">Системы искусственного интеллекта</a></p>
+	<p><a href="discipline.php#Software Computer Systems">Программное обеспечение вычислительных систем</a></p>
+    <p><a href="discipline.php#Special programming languages ​​(Android)">Специальные языки программирования (Android)</a></p>
+    <p><a href="discipline.php#Special programming languages ​​(Java)">Специальные языки программирования (Java)</a></p>
+    <p><a href="discipline.php#Probability theory and mathematical statistics">Теория вероятностей и математическая статистика</a></p>
+    <p><a href="discipline.php#Information Theory and Coding">Теория информации и кодирование</a></p>
+    <p><a href="discipline.php#programming theory">Теория программирования</a></p>
+    <p><a href="discipline.php#control Theory">Теория управления</a></p>
+    <p><a href="discipline.php#programming Technologies">Технологии программирования</a></p>
+    <p><a href="discipline.php#functional analysis">Функциональный анализ</a></p>
+    <p><a href="discipline.php#Digital signal and image processing">Цифровая обработка сигналов и изображений</a></p>
+    <p><a href="discipline.php#Digital control systems">Цифровые системы управления</a></p>
+    <p><a href="discipline.php#numerical Methods">Численные методы</a></p>
+    <p><a href="discipline.php#Computer and microprocessor systems">ЭВМ и микропроцессорные системы</a></big></p>
+  
             <div style="margin-bottom: 60px;"></div>
 
         </div>
