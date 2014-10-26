@@ -13,11 +13,7 @@
 <center>
 <h1 style="color:Red">Прикладная математика</h1>
 </center>
-<br></br>
-<p><big><b>Дипломы по специальности:</b></big></p>
-<p><i>- Бакалавр - </i></p>
-<p><i>- Специалист - </i></p>
-<p><i>- Магистр - </i></p>
+
 <br></br>
 <p>Математическое моделирование сложных систем и процессов, анализ и синтез систем управления, эксплуатация ЭВМ, сетей ЭВМ, 
 прикладное и системное программирование, теория информации и ее приложения – это магистральные направления в подготовке специалистов, 
@@ -54,57 +50,55 @@
 системы подготовки специалистов, преподавательских кадров высшей квалификации, четкой направленности на решение важнейших задач современного
  производства с многообразием возможных направлений приложения полученных знаний и навыков.</p>
  
-<li><a href="discipline.html"><h1 style="color:Red"> Дисциплины </h1></a></li>
-
-
-<p><a href="discipline.html#Algebra and geometry">Алгебра и геометрия</a></p>
-<p><a href="discipline.html#Algorithms and Data Structures">Алгоритмы и структуры данных</a></p>
-<p><a href="discipline.html#data Analysis">Анализ данных</a></p>
-<p><a href="discipline.html#Architecture of Computer Systems">Архитектура вычислительных систем</a></p>
-<p><a href="discipline.html#Databases and Information Systems">Базы данных и информационные системы</a></p>
-<p><a href="discipline.html#calculus of Variations">Вариационное исчисление</a></p>
-<p><a href="discipline.html#Introduction to the profession2">Введение в специальность</a></p>
-<p><a href="discipline.html#Computational geometry and computer graphics">Вычислительная геометрия и компьютерная графика</a></p>
-<p><a href="discipline.html#Gyroscopic control system">Гироскопические системы управления</a></p>
-<p><a href="discipline.html#Rigid body dynamics">Динамика твердого тела</a></p>
-<p><a href="discipline.html#discrete Mathematics">Дискретная математика</a></p>
-<p><a href="discipline.html#differential Equations">Дифференциальные уравнения</a></p>
-<p><a href="discipline.html#integral equations">Интегральные уравнения</a></p>
-<p><a href="discipline.html#operations Research">Исследование операций</a></p>
-<p><a href="discipline.html#networks">Компьютерные сети</a></p>
-<p><a href="discipline.html#Mathematical logic and the theory of algorithms">Математическая логика и теория алгоритмов</a></p>
-<p><a href="discipline.html#mathematical Statistics">Математическая статистика</a></p>
-<p><a href="discipline.html#Mathematical methods of aerodynamics">Математические методы аэродинамики</a></p>
-<p><a href="discipline.html#Mathematical analysis">Математический анализ</a></p>
-<p><a href="discipline.html#Mathematical modeling">Математическое моделирование</a></p>
-<p><a href="discipline.html#calculation Methods">Методы вычислений</a></p>
-<p><a href="discipline.html#optimization Methods">Методы оптимизации</a></p>
-<p><a href="discipline.html#mechanics of Flight">Механика полета</a></p>
-<p><a href="discipline.html#Modeling and Analysis of Complex Systems">Моделирование и анализ сложных систем</a></p>
-<p><a href="discipline.html#Monitored devices and adaptive filters">Наблюдающие устройства и адаптивные фильтры</a></p>
-<p><a href="discipline.html#Navigation and navigation systems">Навигация и навигационные системы</a></p>
-<p><a href="discipline.html#Reliability, testing and diagnostics information systems">Надежность, контроль и диагностика информационных систем</a></p>
-<p><a href="discipline.html#Neural network information technology">Нейросетевые информационные технологии</a></p>
-<p><a href="discipline.html#Nonlinear processes and models">Нелинейные процессы и модели</a></p>
-<p><a href="discipline.html#Web-based">Основы Интернет-технологий</a></p>
-<p><a href="discipline.html#Fundamentals of the theory of oscillations">Основы теории колебаний</a></p>
-<p><a href="discipline.html#Programming">Программирование</a></p>
-<p><a href="discipline.html#Software Computer Systems">Программное обеспечение вычислительных систем</a></p>
-<p><a href="discipline.html#System Programming">Системное программирование</a></p>
-<p><a href="discipline.html#Random processes">Случайные процессы</a></p>
-<p><a href="discipline.html#Recent developments in applied mathematics and computer">Современные проблемы прикладной и компьютерной математики</a></p>
-<p><a href="discipline.html#Special programming languages ​​(Android)">Специальные языки программирования (Android)</a></p>
-<p><a href="discipline.html#Special programming languages ​​(Java)">Специальные языки программирования (Java)</a></p>
-<p><a href="discipline.html#Theoretical and analytical mechanics">Теоретическая и аналитическая механика</a></p>
-<p><a href="discipline.html#probability Theory">Теория вероятностей</a></p>
-<p><a href="discipline.html#programming theory">Теория программирования</a></p>
-<p><a href="discipline.html#Control Theory">Теория управления</a></p>
-<p><a href="discipline.html#Theory of functions of a complex variable">Теория функций комплексного переменного</a></p>
-<p><a href="discipline.html#Equations of mathematical physics">Уравнения математической физики</a></p>
-<p><a href="discipline.html#functional analysis">Функциональный анализ</a></p>
-<p><a href="discipline.html#Digital signal and image processing">Цифровая обработка сигналов и изображений</a></p>
-<p><a href="discipline.html#Numerical methods of mathematical physics">Численные методы математической физики</a></p>
-<p><a href="discipline.html#Numerical methods for optimal control">Численные методы оптимального управления</a></p>
+<p><h1 style="color:Red"> Дисциплины </h1></p>
+<p><big><a href="discipline.php#Algebra and geometry">Алгебра и геометрия</a></p>
+<p><a href="discipline.php#Algorithms and Data Structures">Алгоритмы и структуры данных</a></p>
+<p><a href="discipline.php#data Analysis">Анализ данных</a></p>
+<p><a href="discipline.php#Architecture of Computer Systems">Архитектура вычислительных систем</a></p>
+<p><a href="discipline.php#Databases and Information Systems">Базы данных и информационные системы</a></p>
+<p><a href="discipline.php#calculus of Variations">Вариационное исчисление</a></p>
+<p><a href="discipline.php#Introduction to the profession">Введение в специальность</a></p>
+<p><a href="discipline.php#Computational geometry and computer graphics">Вычислительная геометрия и компьютерная графика</a></p>
+<p><a href="discipline.php#Gyroscopic control system">Гироскопические системы управления</a></p>
+<p><a href="discipline.php#Rigid body dynamics">Динамика твердого тела</a></p>
+<p><a href="discipline.php#discrete Mathematics">Дискретная математика</a></p>
+<p><a href="discipline.php#differential Equations">Дифференциальные уравнения</a></p>
+<p><a href="discipline.php#integral equations">Интегральные уравнения</a></p>
+<p><a href="discipline.php#operations Research">Исследование операций</a></p>
+<p><a href="discipline.php#networks">Компьютерные сети</a></p>
+<p><a href="discipline.php#Mathematical logic and the theory of algorithms">Математическая логика и теория алгоритмов</a></p>
+<p><a href="discipline.php#mathematical Statistics">Математическая статистика</a></p>
+<p><a href="discipline.php#Mathematical methods of aerodynamics">Математические методы аэродинамики</a></p>
+<p><a href="discipline.php#Mathematical analysis">Математический анализ</a></p>
+<p><a href="discipline.php#Mathematical modeling">Математическое моделирование</a></p>
+<p><a href="discipline.php#calculation Methods">Методы вычислений</a></p>
+<p><a href="discipline.php#optimization Methods">Методы оптимизации</a></p>
+<p><a href="discipline.php#mechanics of Flight">Механика полета</a></p>
+<p><a href="discipline.php#Modeling and Analysis of Complex Systems">Моделирование и анализ сложных систем</a></p>
+<p><a href="discipline.php#Monitored devices and adaptive filters">Наблюдающие устройства и адаптивные фильтры</a></p>
+<p><a href="discipline.php#Navigation and navigation systems">Навигация и навигационные системы</a></p>
+<p><a href="discipline.php#Reliability, testing and diagnostics information systems">Надежность, контроль и диагностика информационных систем</a></p>
+<p><a href="discipline.php#Neural network information technology">Нейросетевые информационные технологии</a></p>
+<p><a href="discipline.php#Nonlinear processes and models">Нелинейные процессы и модели</a></p>
+<p><a href="discipline.php#Web-based">Основы Интернет-технологий</a></p>
+<p><a href="discipline.php#Fundamentals of the theory of oscillations">Основы теории колебаний</a></p>
+<p><a href="discipline.php#Programming">Программирование</a></p>
+<p><a href="discipline.php#Software Computer Systems">Программное обеспечение вычислительных систем</a></p>
+<p><a href="discipline.php#System Programming">Системное программирование</a></p>
+<p><a href="discipline.php#Random processes">Случайные процессы</a></p>
+<p><a href="discipline.php#Recent developments in applied mathematics and computer">Современные проблемы прикладной и компьютерной математики</a></p>
+<p><a href="discipline.php#Special programming languages ​​(Android)">Специальные языки программирования (Android)</a></p>
+<p><a href="discipline.php#Special programming languages ​​(Java)">Специальные языки программирования (Java)</a></p>
+<p><a href="discipline.php#Theoretical and analytical mechanics">Теоретическая и аналитическая механика</a></p>
+<p><a href="discipline.php#probability Theory">Теория вероятностей</a></p>
+<p><a href="discipline.php#programming theory">Теория программирования</a></p>
+<p><a href="discipline.php#Control Theory">Теория управления</a></p>
+<p><a href="discipline.php#Theory of functions of a complex variable">Теория функций комплексного переменного</a></p>
+<p><a href="discipline.php#Equations of mathematical physics">Уравнения математической физики</a></p>
+<p><a href="discipline.php#functional analysis">Функциональный анализ</a></p>
+<p><a href="discipline.php#Digital signal and image processing">Цифровая обработка сигналов и изображений</a></p>
+<p><a href="discipline.php#Numerical methods of mathematical physics">Численные методы математической физики</a></p>
+<p><a href="discipline.php#Numerical methods for optimal control">Численные методы оптимального управления</a></big></p>
 </center>
 -->
 
@@ -115,12 +109,7 @@
 
             <div class="blog-post" style="margin-bottom: 35px;">
 
-                <p><big><b>Дипломы по специальности:</b></big></p>
-                <p><i>- Бакалавр - </i></p>
-                <p><i>- Специалист - </i></p>
-                <p style="margin-bottom: 30px;"><i>- Магистр - </i></p>
-
-                <img src="image/mat1.jpg" style="float:left; margin-right: 15px;">
+                               <img src="image/mat1.jpg" style="float:left; margin-right: 15px;">
                 <p align="justify">Математическое моделирование сложных систем и процессов, анализ и синтез систем управления, эксплуатация ЭВМ, сетей ЭВМ, 
 				прикладное и системное программирование, теория информации и ее приложения – это магистральные направления в подготовке специалистов, 
 				необходимых современному обществу.</p><br>
@@ -138,8 +127,9 @@
 				<p align="justify">Наших выпускников отличает широкая эрудиция и высокий профессионализм. Достаточно сказать, что многие из них связаны с созданием систем 
 				управления ракетой-носителем «Энергия», космическими аппаратами «Буран», «Квант», «Кристалл», серии метеоспутников, спутников связи. 
 				Уровень подготовки специалистов, выпускаемых нашей кафедрой, соответствует самым высоким мировым требованиям.</p>
+				<br></br>
 				<img src="image/mat2.jpg" style="float:right; margin-left: 15px;">
-				<br>
+				
 
 				<p align="justify"><b>Обучение на нашей специальности обеспечивает:</b></p>
 
@@ -156,56 +146,55 @@
 				 производства с многообразием возможных направлений приложения полученных знаний и навыков.</p>
 
             </div>
-
-			<p><a href="discipline.html"><h1> Дисциплины </h1></a></p>
-            <p><a href="discipline.html#Algebra and geometry">Алгебра и геометрия</a></p>
-			<p><a href="discipline.html#Algorithms and Data Structures">Алгоритмы и структуры данных</a></p>
-			<p><a href="discipline.html#data Analysis">Анализ данных</a></p>
-			<p><a href="discipline.html#Architecture of Computer Systems">Архитектура вычислительных систем</a></p>
-			<p><a href="discipline.html#Databases and Information Systems">Базы данных и информационные системы</a></p>
-			<p><a href="discipline.html#calculus of Variations">Вариационное исчисление</a></p>
-			<p><a href="discipline.html#Introduction to the profession2">Введение в специальность</a></p>
-			<p><a href="discipline.html#Computational geometry and computer graphics">Вычислительная геометрия и компьютерная графика</a></p>
-			<p><a href="discipline.html#Gyroscopic control system">Гироскопические системы управления</a></p>
-			<p><a href="discipline.html#Rigid body dynamics">Динамика твердого тела</a></p>
-			<p><a href="discipline.html#discrete Mathematics">Дискретная математика</a></p>
-			<p><a href="discipline.html#differential Equations">Дифференциальные уравнения</a></p>
-			<p><a href="discipline.html#integral equations">Интегральные уравнения</a></p>
-			<p><a href="discipline.html#operations Research">Исследование операций</a></p>
-			<p><a href="discipline.html#networks">Компьютерные сети</a></p>
-			<p><a href="discipline.html#Mathematical logic and the theory of algorithms">Математическая логика и теория алгоритмов</a></p>
-			<p><a href="discipline.html#mathematical Statistics">Математическая статистика</a></p>
-			<p><a href="discipline.html#Mathematical methods of aerodynamics">Математические методы аэродинамики</a></p>
-			<p><a href="discipline.html#Mathematical analysis">Математический анализ</a></p>
-			<p><a href="discipline.html#Mathematical modeling">Математическое моделирование</a></p>
-			<p><a href="discipline.html#calculation Methods">Методы вычислений</a></p>
-			<p><a href="discipline.html#optimization Methods">Методы оптимизации</a></p>
-			<p><a href="discipline.html#mechanics of Flight">Механика полета</a></p>
-			<p><a href="discipline.html#Modeling and Analysis of Complex Systems">Моделирование и анализ сложных систем</a></p>
-			<p><a href="discipline.html#Monitored devices and adaptive filters">Наблюдающие устройства и адаптивные фильтры</a></p>
-			<p><a href="discipline.html#Navigation and navigation systems">Навигация и навигационные системы</a></p>
-			<p><a href="discipline.html#Reliability, testing and diagnostics information systems">Надежность, контроль и диагностика информационных систем</a></p>
-			<p><a href="discipline.html#Neural network information technology">Нейросетевые информационные технологии</a></p>
-			<p><a href="discipline.html#Nonlinear processes and models">Нелинейные процессы и модели</a></p>
-			<p><a href="discipline.html#Web-based">Основы Интернет-технологий</a></p>
-			<p><a href="discipline.html#Fundamentals of the theory of oscillations">Основы теории колебаний</a></p>
-			<p><a href="discipline.html#Programming">Программирование</a></p>
-			<p><a href="discipline.html#Software Computer Systems">Программное обеспечение вычислительных систем</a></p>
-			<p><a href="discipline.html#System Programming">Системное программирование</a></p>
-			<p><a href="discipline.html#Random processes">Случайные процессы</a></p>
-			<p><a href="discipline.html#Recent developments in applied mathematics and computer">Современные проблемы прикладной и компьютерной математики</a></p>
-			<p><a href="discipline.html#Special programming languages ​​(Android)">Специальные языки программирования (Android)</a></p>
-			<p><a href="discipline.html#Special programming languages ​​(Java)">Специальные языки программирования (Java)</a></p>
-			<p><a href="discipline.html#Theoretical and analytical mechanics">Теоретическая и аналитическая механика</a></p>
-			<p><a href="discipline.html#probability Theory">Теория вероятностей</a></p>
-			<p><a href="discipline.html#programming theory">Теория программирования</a></p>
-			<p><a href="discipline.html#Control Theory">Теория управления</a></p>
-			<p><a href="discipline.html#Theory of functions of a complex variable">Теория функций комплексного переменного</a></p>
-			<p><a href="discipline.html#Equations of mathematical physics">Уравнения математической физики</a></p>
-			<p><a href="discipline.html#functional analysis">Функциональный анализ</a></p>
-			<p><a href="discipline.html#Digital signal and image processing">Цифровая обработка сигналов и изображений</a></p>
-			<p><a href="discipline.html#Numerical methods of mathematical physics">Численные методы математической физики</a></p>
-			<p><a href="discipline.html#Numerical methods for optimal control">Численные методы оптимального управления</a></p>
+			<h1 class="blog-post-title" style="color:Red;">Дисциплины </h1>
+			<p><big><a href="discipline.php#Algebra and geometry">Алгебра и геометрия</a></p>
+			<p><a href="discipline.php#Algorithms and Data Structures">Алгоритмы и структуры данных</a></p>
+			<p><a href="discipline.php#data Analysis">Анализ данных</a></p>
+			<p><a href="discipline.php#Architecture of Computer Systems">Архитектура вычислительных систем</a></p>
+			<p><a href="discipline.php#Databases and Information Systems">Базы данных и информационные системы</a></p>
+			<p><a href="discipline.php#calculus of Variations">Вариационное исчисление</a></p>
+			<p><a href="discipline.php#Introduction to the profession2">Введение в специальность</a></p>
+			<p><a href="discipline.php#Computational geometry and computer graphics">Вычислительная геометрия и компьютерная графика</a></p>
+			<p><a href="discipline.php#Gyroscopic control system">Гироскопические системы управления</a></p>
+			<p><a href="discipline.php#Rigid body dynamics">Динамика твердого тела</a></p>
+			<p><a href="discipline.php#discrete Mathematics">Дискретная математика</a></p>
+			<p><a href="discipline.php#differential Equations">Дифференциальные уравнения</a></p>
+			<p><a href="discipline.php#integral equations">Интегральные уравнения</a></p>
+			<p><a href="discipline.php#operations Research">Исследование операций</a></p>
+			<p><a href="discipline.php#networks">Компьютерные сети</a></p>
+			<p><a href="discipline.php#Mathematical logic and the theory of algorithms">Математическая логика и теория алгоритмов</a></p>
+			<p><a href="discipline.php#mathematical Statistics">Математическая статистика</a></p>
+			<p><a href="discipline.php#Mathematical methods of aerodynamics">Математические методы аэродинамики</a></p>
+			<p><a href="discipline.php#Mathematical analysis">Математический анализ</a></p>
+			<p><a href="discipline.php#Mathematical modeling">Математическое моделирование</a></p>
+			<p><a href="discipline.php#calculation Methods">Методы вычислений</a></p>
+			<p><a href="discipline.php#optimization Methods">Методы оптимизации</a></p>
+			<p><a href="discipline.php#mechanics of Flight">Механика полета</a></p>
+			<p><a href="discipline.php#Modeling and Analysis of Complex Systems">Моделирование и анализ сложных систем</a></p>
+			<p><a href="discipline.php#Monitored devices and adaptive filters">Наблюдающие устройства и адаптивные фильтры</a></p>
+			<p><a href="discipline.php#Navigation and navigation systems">Навигация и навигационные системы</a></p>
+			<p><a href="discipline.php#Reliability, testing and diagnostics information systems">Надежность, контроль и диагностика информационных систем</a></p>
+			<p><a href="discipline.php#Neural network information technology">Нейросетевые информационные технологии</a></p>
+			<p><a href="discipline.php#Nonlinear processes and models">Нелинейные процессы и модели</a></p>
+			<p><a href="discipline.php#Web-based">Основы Интернет-технологий</a></p>
+			<p><a href="discipline.php#Fundamentals of the theory of oscillations">Основы теории колебаний</a></p>
+			<p><a href="discipline.php#Programming">Программирование</a></p>
+			<p><a href="discipline.php#Software Computer Systems">Программное обеспечение вычислительных систем</a></p>
+			<p><a href="discipline.php#System Programming">Системное программирование</a></p>
+			<p><a href="discipline.php#Random processes">Случайные процессы</a></p>
+			<p><a href="discipline.php#Recent developments in applied mathematics and computer">Современные проблемы прикладной и компьютерной математики</a></p>
+			<p><a href="discipline.php#Special programming languages ​​(Android)">Специальные языки программирования (Android)</a></p>
+			<p><a href="discipline.php#Special programming languages ​​(Java)">Специальные языки программирования (Java)</a></p>
+			<p><a href="discipline.php#Theoretical and analytical mechanics">Теоретическая и аналитическая механика</a></p>
+			<p><a href="discipline.php#probability Theory">Теория вероятностей</a></p>
+			<p><a href="discipline.php#programming theory">Теория программирования</a></p>
+			<p><a href="discipline.php#Control Theory">Теория управления</a></p>
+			<p><a href="discipline.php#Theory of functions of a complex variable">Теория функций комплексного переменного</a></p>
+			<p><a href="discipline.php#Equations of mathematical physics">Уравнения математической физики</a></p>
+			<p><a href="discipline.php#functional analysis">Функциональный анализ</a></p>
+			<p><a href="discipline.php#Digital signal and image processing">Цифровая обработка сигналов и изображений</a></p>
+			<p><a href="discipline.php#Numerical methods of mathematical physics">Численные методы математической физики</a></p>
+			<p><a href="discipline.php#Numerical methods for optimal control">Численные методы оптимального управления</a></big></p>
 
 			<div style="margin-bottom: 60px;"></div>
         
