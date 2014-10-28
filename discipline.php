@@ -6,7 +6,7 @@
 <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
   <div class="row">
  
-<img src="discipline.jpg" style="float:center>"
+<img src="image/discipline.jpg" style="float:center>"
 <br></br>
 <center>
 <big>
@@ -463,7 +463,7 @@
 <br></br>
 </big>
 </center>
-<img src="books.jpg" style="float:center">
+<img src="image/books.jpg" style="float:center">
 </br>
 	<!-- Подвал -->
 	
