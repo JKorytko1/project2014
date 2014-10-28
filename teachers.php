@@ -277,7 +277,7 @@
 <div class="container">
     <div class="row">
   		<div class="col-md-10 col-md-offset-2">
-  			<img src="pk.jpg" style="margin-top: 45px;">
+  			<img src="image/pk.jpg" style="margin-top: 45px;">
   			
 			
 			<table bgcolor=transparent border="0" cellpadding="2" cellspacing="1" style="margin-top: 15px;">
