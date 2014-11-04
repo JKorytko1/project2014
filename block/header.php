@@ -30,7 +30,7 @@
                   <li><a href="#">Предметы</a></li>
               </ul>
               </li>
-              <li><a href="#">Абитуриенту</a></li>
+              <li><a href="abiturient.php">Абитуриенту</a></li>
               <li><a href="conference.php">Конференции</a></li>
               <li><a href="contacts.php">Контакты</a></li>
           </ul>
