@@ -7,7 +7,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			
-			<p><img src="image/phone.jpg" align="right"></p>
+			<p><img src="image/phone.jpg" align="right" style="position: relative;top: -42px;left: 3px;"></p>
 		
 			<center>
 				<p><h1 style="color:Blue"><b>Наш адрес:</b></h1></p>
