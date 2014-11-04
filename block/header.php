@@ -27,7 +27,7 @@
                   <li><a href="department.php">История кафедры</a></li>
                   <li><a href="teachers.php">Преподаватели</a></li>
                   <li><a href="speciality.php">Специальности</a></li>
-                  <li><a href="#">Предметы</a></li>
+                  <li><a href="discipline.php">Предметы</a></li>
               </ul>
               </li>
               <li><a href="abiturient.php">Абитуриенту</a></li>
