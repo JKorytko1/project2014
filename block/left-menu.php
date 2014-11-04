@@ -6,14 +6,14 @@
       <ul class="nav nav-sidebar">
         <li><h4>Научные и методические материалы</h4></li>
         <li><a href="#">Книги, методические пособия</a></li>
-        <li><a href="projects.php">Студенческие проекты</a></li>
+        <li><a href="#">Студенческие проекты</a></li>
         <li><a href="#">Статьи</a></li>
       </ul>
 
       <ul class="nav nav-sidebar">
         <li><h4>Студенту</h4></li>
         <li><a href="">Группы</a></li>
-        <li><a href="">Фотогалерея</a></li>
+        <li><a href="gallery.php">Фотогалерея</a></li>
         <li><a href="">Профсоюз студентов</a></li>
       </ul>
 
