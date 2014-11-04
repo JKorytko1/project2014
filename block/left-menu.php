@@ -12,7 +12,7 @@
 
       <ul class="nav nav-sidebar">
         <li><h4>Студенту</h4></li>
-        <li><a href="">Группы</a></li>
+        <li><a href="groups.php">Группы</a></li>
         <li><a href="">Фотогалерея</a></li>
         <li><a href="">Профсоюз студентов</a></li>
       </ul>
