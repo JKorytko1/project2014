@@ -14,7 +14,7 @@
         <li><h4>Студенту</h4></li>
         <li><a href="">Группы</a></li>
         <li><a href="">Фотогалерея</a></li>
-        <li><a href="">Профсоюз студентов</a></li>
+        <li><a href="profkom.php">Профсоюз студентов</a></li>
       </ul>
 
       <ul class="nav nav-sidebar">
