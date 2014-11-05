@@ -126,7 +126,7 @@
           		</div>
 	          
           		<ul class="pager">
-                    <li><a href="news.html" target="_blank">Читать все новости</a></li>
+                    <li><a href="news.php" target="_blank">Читать все новости</a></li>
                 </ul>
 
 	            
