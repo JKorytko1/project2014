@@ -7,7 +7,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			
-			<p><img src="image/phone.jpg" align="right" style="position: relative;top: -42px;left: 3px;"></p>
+			<p><img src="assets/images/phone.jpg" align="right" style="position: relative;top: -42px;left: 3px;"></p>
 		
 			<center>
 				<p><h1 style="color:Blue"><b>Наш адрес:</b></h1></p>
@@ -22,7 +22,7 @@
 			</center>
 
 			<p align="center"><b>Карта Харьковского метрополитена</b></p>
-			<p style="text-indent:170px" align="center"><img src="image/metro.jpg"></p>
+			<p style="text-indent:170px" align="center"><img src="assets/images/metro.jpg"></p>
 			<p align="center"><b>Добраться до университета можно от станции метро "Архитектора Бекетова" и "Пушкинская": </b></p>
 			<br></br>
 
@@ -33,10 +33,10 @@
 				</i>
 			</p>
 
-			<p align="center"><img src="image/pb.jpg"></p>
+			<p align="center"><img src="assets/images/pb.jpg"></p>
 			<br></br>
 			<p align="center"><b>Учитывая множество корпусов университета и большую територию, предлагаем воспользоваться картой:</b></p>
-			<p align="center"><img src="image/karta1.jpg" </p>
+			<p align="center"><img src="assets/images/karta1.jpg" </p>
 
 		</div>
 	</div>

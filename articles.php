@@ -1,4 +1,4 @@
- <?php include('block/header.php');?>
+﻿ <?php include('block/header.php');?>
  <?php include('block/left-menu.php');?>
  
 <!-- Контент -->
@@ -8,7 +8,7 @@
       	<div class="col-md-10 col-md-offset-2">
       		<div class="blog-post" style="margin-top: 35px;">
 			<center>
-  <img src="02.jpg" style="float:center">
+  <img src="assets/images/02.jpg" style="float:center">
   </br>
  </br>
 

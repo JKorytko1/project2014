@@ -14,7 +14,7 @@
 	
             <div class="item active">
 			<center>
-            <img src="image/001.jpg" alt="">
+            <img src="assets/images/001.jpg" alt="">
 			</center>
             <div class="carousel-caption"> 
 		<p> 
@@ -29,7 +29,7 @@
 	
             <div class="item">
 		    <center>
-            <img src="image/002.jpg" alt="">
+            <img src="assets/images/002.jpg" alt="">
 			</center>
             <div class="carousel-caption">
 		<p> 
@@ -44,7 +44,7 @@
 		
             <div class="item">
 			<center>
-            <img src="image/003.jpg" alt="">
+            <img src="assets/images/003.jpg" alt="">
 			</center>
             <div class="carousel-caption">
         <p> 
@@ -59,7 +59,7 @@
 		
             <div class="item">
 			<center>
-            <img src="image/004.jpg" alt="">
+            <img src="assets/images/004.jpg" alt="">
 			</center>
             <div class="carousel-caption">
         <p> 
@@ -74,7 +74,7 @@
 
             <div class="item">
 			<center>
-            <img src="image/005.jpg" alt="">
+            <img src="assets/images/005.jpg" alt="">
 			</center>
             <div class="carousel-caption">
         <p> 
@@ -115,30 +115,20 @@
 
 				<div class="blog-post">
 		            <h2 class="blog-post-title">Изменения графика учебного процесса</h2>
-		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
+		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.php">Admin</a></p>
 		            <p align="justify">В 2014–2015 учебный год внесены некоторые изменения отдельных элементов графика учебного процесса. Однако эти изменения не коснутся количества отведенного для учебы времени и не повлияют на качество учебного процесса. То есть, количество часов останется прежним: 16 недель лекционных и практических занятий с понедельника по пятницу. Суббота останется выходным днем.<a href="news.php" target="_blank"> Читать далее</a></p>
 	       		</div>
 	          	
 	       		<div class="blog-post">
 		            <h2 class="blog-post-title">Товажнянский продолжает свою работу в должности ректора</h2>
-		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
+		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.php">Admin</a></p>
 		            <p align="justify">Профессор Товажнянский Леонид Леонидович продолжает свою работу в должности ректора Национального технического университета «Харьковский политехнический институт». После окончания очередного срока (контракта) 19 января 2015 года будет объявлен конкурс на замещение должности ректора Национального технического университета «Харьковский политехнический институт» в соответствии с действующим законодательством Украины.<a href="news.php" target="_blank"> Читать далее</a></p>
           		</div>
 	          
-<<<<<<< HEAD
           		<ul class="pager">
                     <li><a href="news.php" target="_blank">Читать все новости</a></li>
-                </ul>
-
-	            
-=======
-                    <ul class="pager">
-                    <li><a href="news.html" target="_blank">Читать все новости</a></li>
-                     </ul>
-          		
->>>>>>> curent
-
-	        </div>
+                	</ul>
+		</div>
     	</div>
     </div>
 
