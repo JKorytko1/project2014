@@ -6,7 +6,7 @@
  <div class="container">
     <div class="row">
       	<div class="col-md-10 col-md-offset-2">
-      		<div class="blog-post" style="margin-top: 35px;">
+      		
 			<center>
   <img src="assets/images/02.jpg" style="float:center">
   </br>
@@ -14,7 +14,7 @@
 
  
  
- <h3><a href="articles/Breslavsky_Breslavskaya_Tatarinova.pdf" target="blank">ВПЛИВ КОСМІЧНОЇ РАДІАЦІЇ ТА ЦИКЛІЧНОСТІ
+ <h3><a href="assets/articles/Breslavsky_Breslavskaya_Tatarinova.pdf" target="blank">ВПЛИВ КОСМІЧНОЇ РАДІАЦІЇ ТА ЦИКЛІЧНОСТІ
  НАВАНТАЖЕННЯ <br>НА ПОШКОДЖУВАНІСТЬ СТРИЖНЕВИХ ЕЛЕМЕНТІВ</a><h3></p>
  <h4><i><b>БРЕСЛАВСЬКИЙ Д.В., д-р техн. наук, БРЕСЛАВСЬКА О.О., канд. техн. 
 наук,<p> ТАТАРІНОВА О.А., канд. техн. наук, НТУ «ХПІ»</p>
@@ -29,7 +29,7 @@
  <p>й час до закінчення прихованого руйнування полімерного стрижня.</p></h4>
  </br>
  
- <h3><a href="articles/Breslavsky_Tatarinova_Korytko.pdf" target="blank">ПОЛЗУЧЕСТЬ ОБОЛОЧЕК ВРАЩЕНИЯ В УСЛОВИЯХ СОВМЕСТНОГО 
+ <h3><a href="assets/articles/Breslavsky_Tatarinova_Korytko.pdf" target="blank">ПОЛЗУЧЕСТЬ ОБОЛОЧЕК ВРАЩЕНИЯ В УСЛОВИЯХ СОВМЕСТНОГО 
  <br>ДЕЙСТВИЯ ПЕРИОДИЧЕСКИ ИЗМЕНЯЮЩИХСЯ 
   <br>ТЕМПЕРАТУР И НАПРЯЖЕНИЙ</a><h3></p>
   <h4><i><b>БРЕСЛАВСКИЙ Д.В., д-р техн. наук, ТАТАРИНОВА О.А., канд. техн. наук, 
@@ -42,7 +42,7 @@
  </h4>
  </br>
  
- <h3><a href="articles/LYAPUNOV_Creep.pdf" target="blank">ВОЗДЕЙСТВИЕ БЫСТРО ОСЦИЛЛИРУЮЩЕГО ПОЛЯ НА  
+ <h3><a href="assets/articles/LYAPUNOV_Creep.pdf" target="blank">ВОЗДЕЙСТВИЕ БЫСТРО ОСЦИЛЛИРУЮЩЕГО ПОЛЯ НА  
  <br> ДЕФОРМИРУЕМЫЕ ТЕЛА ПРИ НЕЛИНЕЙНОЙ ПОЛЗУЧЕСТИ</a><h3>
  <h4><i><b>БРЕСЛАВСЬКИЙ Д.В., д-р техн. наук, МОРАЧКОВСКИЙ О.К.</b></i></h4>
   </br>
@@ -56,7 +56,7 @@
  <p>і «повільних» функцій асимптотичного зображення розв'язків.</h4></p>
  </br>
  
- <h3><a href="articles/Breslavsky Tatarinova Morachkovsky.pdf" target="blank">HIGH-TEMPERATURE CREEP AND LONG-TERM STRENGTH
+ <h3><a href="assets/articles/Breslavsky Tatarinova Morachkovsky.pdf" target="blank">HIGH-TEMPERATURE CREEP AND LONG-TERM STRENGTH
 <br>OF STRUCTURAL ELEMENTS UNDER CYCLIC LOADING</a><h3></p>
 <h4><i><b>D. V. BRESLAVSKY, O. K. MORACHKOVSKY,
 and O. A. TATARINOVA</b></i></h4>
@@ -68,7 +68,7 @@ and O. A. TATARINOVA</b></i></h4>
  </h4>
  </br>
  
-  <h3><a href="articles/Breslavsky_Korytko.pdf" target="blank">РОЗРАХУНКОВЕ ОЦІНЮВАННЯ ДОВГОТРИВАЛОЇ 
+  <h3><a href="assets/articles/Breslavsky_Korytko.pdf" target="blank">РОЗРАХУНКОВЕ ОЦІНЮВАННЯ ДОВГОТРИВАЛОЇ 
   МІЦНОСТІ ЛОПАТОК <br>ГАЗОТУРБИННИХ ДВИГУНІВ ПРИ ЦИКЛІЧНИХ ТЕПЛОЗМІНАХ</a><h3></p>
  <h4><i><b>БРЕСЛАВСЬКИЙ Д.В., д-р техн. наук, КОРЫТКО Ю.Н., канд. техн. наук, НТУ «ХПИ»</p>
 </b></i></h4>
@@ -79,7 +79,7 @@ and O. A. TATARINOVA</b></i></h4>
  <p>результаты экспериментального изучения моделей лопаток. Приводятся результаты расчетов. </p></h4>
  </br>
  
-  <h3><a href="articles/Breslavsky_Korytko_Morachkovsky.pdf" target="blank">МОДЕЛЬ ЦИКЛІЧНОЇ ТЕРМОПОВЗУЧОСТІ ДЛЯ ТІЛ ОБЕРТАННЯ</a><h3></p>
+  <h3><a href="assets/articles/Breslavsky_Korytko_Morachkovsky.pdf" target="blank">МОДЕЛЬ ЦИКЛІЧНОЇ ТЕРМОПОВЗУЧОСТІ ДЛЯ ТІЛ ОБЕРТАННЯ</a><h3></p>
  <h4><i><b>БРЕСЛАВСЬКИЙ Д.В., д-р техн. наук, КОРЫТКО Ю.Н., канд. техн. наук, НТУ «ХПИ»,<p>МОРАЧКОВСКИЙ О.К.</p></p>
 </b></i></h4>
  </br>
@@ -90,7 +90,7 @@ and O. A. TATARINOVA</b></i></h4>
  <p>повзучості циліндрів за циклічної зміни температури. </p></h4>
  </br>
  
-  <h3><a href="articles/Breslavsky_Numerical_Calculations.pdf" target="blank">NUMERICAL CALCULATIONS OF CREEP DAMAGE AT
+  <h3><a href="assets/articles/Breslavsky_Numerical_Calculations.pdf" target="blank">NUMERICAL CALCULATIONS OF CREEP DAMAGE AT
 <p>CYCLIC LOADING BY USE OF TENSOR DAMAGE</p>
 PARAMETER MODEL</a><h3></p>
  <h4><i><b>D. V. BRESLAVSKY, O. K. MORACHKOVSKY, YU. KORYTKO,<p> V. MIETIELOV, O. TATARINOVA</p></p>
@@ -103,7 +103,7 @@ PARAMETER MODEL</a><h3></p>
  <p>damage parameter components as well as time to rupture values were obtained.   </p></h4>
  </br>
  
- <h3><a href="articles/HIGH TEMPERATURE CREEP AND DAMAGE ACCUMULATION IN.pdf" target="blank">HIGH TEMPERATURE CREEP AND DAMAGE ACCUMULATION IN
+ <h3><a href="assets/articles/HIGH TEMPERATURE CREEP AND DAMAGE ACCUMULATION IN.pdf" target="blank">HIGH TEMPERATURE CREEP AND DAMAGE ACCUMULATION IN
 <p>CYCLICALLY LOADED AXISYMMETRICAL BODIES OF REVOLUTION</p></a><h3></p>
  <h4><i><b>D. V. BRESLAVSKY, O. K. MORACHKOVSKY, YU. KORYTKO</p></p>
 </b></i></h4>
@@ -117,7 +117,7 @@ PARAMETER MODEL</a><h3></p>
  <p>of petroleum was analyzed with consideration of different temperature cycle parameters. </p></h4>
  </br>
  
-  <h3><a href="articles/Korytko.pdf" target="blank">ИССЛЕДОВАНИЯ ПОЛЗУЧЕСТИ И ДЛИТЕЛЬНОЙ ПРОЧНОСТИ ТРЕХКАНАЛЬНОЙ
+  <h3><a href="assets/articles/Korytko.pdf" target="blank">ИССЛЕДОВАНИЯ ПОЛЗУЧЕСТИ И ДЛИТЕЛЬНОЙ ПРОЧНОСТИ ТРЕХКАНАЛЬНОЙ
 <p>ОХЛАЖДАЕМОЙ ЛОПАТКИ ГАЗОТУРБИННОГО ДВИГАТЕЛЯ</p></a><h3></p>
  <h4><i><b>КОРЫТКО Ю.Н., канд. техн. наук, НТУ «ХПИ»</p></p>
 </b></i></h4>
@@ -130,7 +130,7 @@ PARAMETER MODEL</a><h3></p>
  <p>окрайці лопатки на час до руйнування.</p></h4>
  </br>
  
-   <h3><a href="articles/Korytko_.pdf" target="blank">РОЗРОБКА МЕТОДУ РОЗРАХУНКУ ДОВГОВІЧНОСТІ ЕЛЕМЕНТІВ КОНСТРУКЦІЙ
+   <h3><a href="assets/articles/Korytko_.pdf" target="blank">РОЗРОБКА МЕТОДУ РОЗРАХУНКУ ДОВГОВІЧНОСТІ ЕЛЕМЕНТІВ КОНСТРУКЦІЙ
 <p>ПРИ ПЕРІОДИЧНІЙ ЗМІНІ ТЕМПЕРАТУР І НАВАНТАЖЕНЬ</p></a><h3></p>
  <h4><i><b>КОРЫТКО Ю.Н., канд. техн. наук, НТУ «ХПИ»</p></p>
 </b></i></h4>
@@ -142,7 +142,7 @@ PARAMETER MODEL</a><h3></p>
  <p>скінченних елементів разом з багатокроковим методом прогнозу-корекції </p>
  <p>інтегрування за часом; для розв’язання систем лінійних алгебраїчних рівнянь –метод Холецького.</p></h4>
  </br>
-
+<div class="blog-post" style="margin-top: 35px;">
 </div>
 </div>
 	</div>
