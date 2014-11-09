@@ -14,8 +14,8 @@
 <p align="justify" style="text-indent:25px">• Спрогнозированы возможные скорость и направления ветра в ближайшие сутки.<br></p>
 <p align="justify" style="text-indent:25px">• Данные для прогноза накапливаются из сайта глобальной метеослужбы  http://ready.arl.noaa.gov для с. Долгенькое Изюмского района. <br></p>
 <p align="justify" style="text-indent:25px">• Написан графический интерфейс пользователя на С++ с использованиембиблиотеки Qt.<br></p>
-<p><img src="image/rv1.jpg" width="950" height="300" style="float:center;"></p><br>
-<p><img src="image/rv2.jpg" width="950" height="500" style="float:center;"></p>
+<p><img src="assets/images/rv1.jpg" width="950" height="300" style="float:center;"></p><br>
+<p><img src="assets/images/rv2.jpg" width="950" height="500" style="float:center;"></p>
 				
 			</div>
 		</div>
