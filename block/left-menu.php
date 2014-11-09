@@ -1,4 +1,4 @@
-<div class="container-fluid">
+﻿<div class="container-fluid">
   <div class="row">
     <!-- <div class="col-sm-3 col-md-2 sidebar" style="position:absolute"> -->
     <div class="col-md-2 sidebar" style="position:absolute">
@@ -12,14 +12,9 @@
 
       <ul class="nav nav-sidebar">
         <li><h4>Студенту</h4></li>
-        <li><a href="">Группы</a></li>
-<<<<<<< HEAD
+        <li><a href="groups.php">Группы</a></li>
         <li><a href="gallery.php">Фотогалерея</a></li>
-        <li><a href="">Профсоюз студентов</a></li>
-=======
-        <li><a href="">Фотогалерея</a></li>
         <li><a href="profkom.php">Профсоюз студентов</a></li>
->>>>>>> curent
       </ul>
 
       <ul class="nav nav-sidebar">
