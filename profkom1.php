@@ -21,7 +21,7 @@
           
 
           <div style="display: block; text-align: center; padding-bottom: 25px; padding-top: 25px;">
-          <img src="image/profkom.jpg"/>
+          <img src="assets/images/profkom.jpg"/>
         </div>
 
           <p>Первичная профсоюзная организация студентов (ППОС) НТУ «ХПИ» - первая и cамая большая правозащитная организация университета, 
