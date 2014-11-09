@@ -1,136 +1,205 @@
-﻿ <?php include('block/header.php');?>
-	<!-- Карусель -->
-	<div id="carousel" class="carousel slide">
-    <!— Индикаторы слайдов —>
-        <ol class="carousel-indicators"> 
-	            <li class="active" data-target="#carousel" data-slide-to="0"></li>
-                <li data-target="#carousel" data-slide-to="1"></li>
-                <li data-target="#carousel" data-slide-to="2"></li>
-                <li data-target="#carousel" data-slide-to="3"></li>
-                <li data-target="#carousel" data-slide-to="4"></li>
-        </ol>
-    <!— Слайды —>
-    <div class="carousel-inner">
+<?php
+
+/*
+ *---------------------------------------------------------------
+ * APPLICATION ENVIRONMENT
+ *---------------------------------------------------------------
+ *
+ * You can load different configurations depending on your
+ * current environment. Setting the environment also influences
+ * things like logging and error reporting.
+ *
+ * This can be set to anything, but default usage is:
+ *
+ *     development
+ *     testing
+ *     production
+ *
+ * NOTE: If you change these, also change the error_reporting() code below
+ *
+ */
+	define('ENVIRONMENT', 'development');
+/*
+ *---------------------------------------------------------------
+ * ERROR REPORTING
+ *---------------------------------------------------------------
+ *
+ * Different environments will require different levels of error reporting.
+ * By default development will show errors but testing and live will hide them.
+ */
+
+if (defined('ENVIRONMENT'))
+{
+	switch (ENVIRONMENT)
+	{
+		case 'development':
+			error_reporting(E_ALL);
+		break;
 	
-            <div class="item active">
-			<center>
-            <img src="assets/images/001.jpg" alt="">
-			</center>
-            <div class="carousel-caption"> 
-		<p> 
-		<h1>
-		<font color="#FFFFFF">
-		Кафедра Cистем и процессов управления (до 2001 года — автоматического управления движением) была создана в 1964 году в связи с актуальными потребностями технического прогресса.
-		</font>
-		</h1>
-		</p>
-            </div>
-        </div>
-	
-            <div class="item">
-		    <center>
-            <img src="assets/images/002.jpg" alt="">
-			</center>
-            <div class="carousel-caption">
-		<p> 
-		<h1>
-		<font color="#FFFFFF">
-        Студенты, обучающиеся по специальности Информатика, изучают не только информационные технологии, но и различные математические курсы, такие как Математический анализ, Теория вероятностей и другие.
-		</font>
-		</h1>
-		</p>
-            </div>
-        </div>
-		
-            <div class="item">
-			<center>
-            <img src="assets/images/003.jpg" alt="">
-			</center>
-            <div class="carousel-caption">
-        <p> 
-		<h1>
-		<font color="#FFFFFF">
-        Полученное студентами инфиза фундаментальное образование по математическим и компьютерным дисциплинам вот уже не один десяток лет позволяет им стать специалистами высокой квалификации с мощным творческим потенциалом.
-		</font>
-		</h1>
-		</p>
-            </div>
-        </div>
-		
-            <div class="item">
-			<center>
-            <img src="assets/images/004.jpg" alt="">
-			</center>
-            <div class="carousel-caption">
-        <p> 
-		<h1>
-		<font color="#FFFFFF">
-        Профилизация подготовки будущих специалистов, принятая на кафедре - «Информационное обеспечение систем управления реального времени».
-		</font>
-		</h1>
-		</p>
-            </div>
-        </div>
+		case 'testing':
+		case 'production':
+			error_reporting(0);
+		break;
 
-            <div class="item">
-			<center>
-            <img src="assets/images/005.jpg" alt="">
-			</center>
-            <div class="carousel-caption">
-        <p> 
-		<h1>
-		<font color="#FFFFFF">
-        Выпускники имеют возможность работать в конструкторских организациях, информационно-аналитических службах, центрах новых информационных технологий и финансовых структурах.
-		</font>
-		</h1>
-		</p>
-            </div>
-        </div>	
-    </div>
-    <!— Стрелки переключения слайдов —>
-        <a href="#carousel" class="left carousel-control" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-        </a>
-        <a href="#carousel" class="right carousel-control" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-        </a>
-    </div>
+		default:
+			exit('The application environment is not set correctly.');
+	}
+}
 
-	
-	<!-- Контент -->
-	<div class="jumbotron">
-      <div class="container">
-        <h1>Системы и Процессы Управления</h1>
-        <p>
-        В Национальном техническом университете “Харьковский политехнический институт” насчитывается около 30 кафедр, каждая из которых имеет свои достижения и традиции. Но есть среди них такие, которые определили целую эпоху в жизни факультета и университета в целом, развитие передовых специальностей, создание научных школ. Именно такой и является кафедра “Системы и процессы управления”.
-        </p>
-        <p><a href="department.php" class="btn btn-primary btn-lg" role="button">Узнать больше »</a></p>
-      </div>
-    </div>
+/*
+ *---------------------------------------------------------------
+ * SYSTEM FOLDER NAME
+ *---------------------------------------------------------------
+ *
+ * This variable must contain the name of your "system" folder.
+ * Include the path if the folder is not in the same  directory
+ * as this file.
+ *
+ */
+	$system_path = 'system';
 
-	
-    <div class="container" id="news">
-    	<div class="row">
-    		<div class="col-md-12 blog-main">
+/*
+ *---------------------------------------------------------------
+ * APPLICATION FOLDER NAME
+ *---------------------------------------------------------------
+ *
+ * If you want this front controller to use a different "application"
+ * folder then the default one you can set its name here. The folder
+ * can also be renamed or relocated anywhere on your server.  If
+ * you do, use a full server path. For more info please see the user guide:
+ * http://codeigniter.com/user_guide/general/managing_apps.html
+ *
+ * NO TRAILING SLASH!
+ *
+ */
+	$application_folder = 'application';
 
-				<div class="blog-post">
-		            <h2 class="blog-post-title">Изменения графика учебного процесса</h2>
-		            <h4 class="blog-post-meta">Октябрь 21, 2014 by <a href="news.php">Admin</a></h4>
-		            <h4 align="justify">В 2014–2015 учебный год внесены некоторые изменения отдельных элементов графика учебного процесса. Однако эти изменения не коснутся количества отведенного для учебы времени и не повлияют на качество учебного процесса. То есть, количество часов останется прежним: 16 недель лекционных и практических занятий с понедельника по пятницу. Суббота останется выходным днем.<a href="news.php" target="_blank"> Читать далее</a></h4>
-	       		</div>
-	          	
-	       		<div class="blog-post">
-		            <h2 class="blog-post-title">Товажнянский продолжает свою работу в должности ректора</h2>
-		            <h4 class="blog-post-meta">Октябрь 21, 2014 by <a href="news.php">Admin</a></h4>
-		            <h4 align="justify">Профессор Товажнянский Леонид Леонидович продолжает свою работу в должности ректора Национального технического университета «Харьковский политехнический институт». После окончания очередного срока (контракта) 19 января 2015 года будет объявлен конкурс на замещение должности ректора Национального технического университета «Харьковский политехнический институт» в соответствии с действующим законодательством Украины.<a href="news.php" target="_blank"> Читать далее</a></h4>
-          		</div>
-	          
-          		<ul class="pager">
-                    <li><a href="news.php" target="_blank">Читать все новости</a></li>
-                	</ul>
-		</div>
-    	</div>
-    </div>
+/*
+ * --------------------------------------------------------------------
+ * DEFAULT CONTROLLER
+ * --------------------------------------------------------------------
+ *
+ * Normally you will set your default controller in the routes.php file.
+ * You can, however, force a custom routing by hard-coding a
+ * specific controller class/function here.  For most applications, you
+ * WILL NOT set your routing here, but it's an option for those
+ * special instances where you might want to override the standard
+ * routing in a specific front controller that shares a common CI installation.
+ *
+ * IMPORTANT:  If you set the routing here, NO OTHER controller will be
+ * callable. In essence, this preference limits your application to ONE
+ * specific controller.  Leave the function name blank if you need
+ * to call functions dynamically via the URI.
+ *
+ * Un-comment the $routing array below to use this feature
+ *
+ */
+	// The directory name, relative to the "controllers" folder.  Leave blank
+	// if your controller is not in a sub-folder within the "controllers" folder
+	// $routing['directory'] = '';
 
-	<!-- Подвал -->
- <?php include('block/footer.php');?>
+	// The controller class file name.  Example:  Mycontroller
+	// $routing['controller'] = '';
+
+	// The controller function you wish to be called.
+	// $routing['function']	= '';
+
+
+/*
+ * -------------------------------------------------------------------
+ *  CUSTOM CONFIG VALUES
+ * -------------------------------------------------------------------
+ *
+ * The $assign_to_config array below will be passed dynamically to the
+ * config class when initialized. This allows you to set custom config
+ * items or override any default config values found in the config.php file.
+ * This can be handy as it permits you to share one application between
+ * multiple front controller files, with each file containing different
+ * config values.
+ *
+ * Un-comment the $assign_to_config array below to use this feature
+ *
+ */
+	// $assign_to_config['name_of_config_item'] = 'value of config item';
+
+
+
+// --------------------------------------------------------------------
+// END OF USER CONFIGURABLE SETTINGS.  DO NOT EDIT BELOW THIS LINE
+// --------------------------------------------------------------------
+
+/*
+ * ---------------------------------------------------------------
+ *  Resolve the system path for increased reliability
+ * ---------------------------------------------------------------
+ */
+
+	// Set the current directory correctly for CLI requests
+	if (defined('STDIN'))
+	{
+		chdir(dirname(__FILE__));
+	}
+
+	if (realpath($system_path) !== FALSE)
+	{
+		$system_path = realpath($system_path).'/';
+	}
+
+	// ensure there's a trailing slash
+	$system_path = rtrim($system_path, '/').'/';
+
+	// Is the system path correct?
+	if ( ! is_dir($system_path))
+	{
+		exit("Your system folder path does not appear to be set correctly. Please open the following file and correct this: ".pathinfo(__FILE__, PATHINFO_BASENAME));
+	}
+
+/*
+ * -------------------------------------------------------------------
+ *  Now that we know the path, set the main path constants
+ * -------------------------------------------------------------------
+ */
+	// The name of THIS file
+	define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));
+
+	// The PHP file extension
+	// this global constant is deprecated.
+	define('EXT', '.php');
+
+	// Path to the system folder
+	define('BASEPATH', str_replace("\\", "/", $system_path));
+
+	// Path to the front controller (this file)
+	define('FCPATH', str_replace(SELF, '', __FILE__));
+
+	// Name of the "system folder"
+	define('SYSDIR', trim(strrchr(trim(BASEPATH, '/'), '/'), '/'));
+
+
+	// The path to the "application" folder
+	if (is_dir($application_folder))
+	{
+		define('APPPATH', $application_folder.'/');
+	}
+	else
+	{
+		if ( ! is_dir(BASEPATH.$application_folder.'/'))
+		{
+			exit("Your application folder path does not appear to be set correctly. Please open the following file and correct this: ".SELF);
+		}
+
+		define('APPPATH', BASEPATH.$application_folder.'/');
+	}
+
+/*
+ * --------------------------------------------------------------------
+ * LOAD THE BOOTSTRAP FILE
+ * --------------------------------------------------------------------
+ *
+ * And away we go...
+ *
+ */
+require_once BASEPATH.'core/CodeIgniter.php';
+
+/* End of file index.php */
+/* Location: ./index.php */
