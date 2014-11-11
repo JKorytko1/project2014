@@ -14,7 +14,7 @@
 	
             <div class="item active">
 			<center>
-            <img src="<?=base_url();?>assets/images/001.jpg" alt="">
+            <img src="<?=base_url();?>assets/images/001.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption"> 
 		<p> 
@@ -29,7 +29,7 @@
 	
             <div class="item">
 		    <center>
-            <img src="<?=base_url();?>assets/images/002.jpg" alt="">
+            <img src="<?=base_url();?>assets/images/002.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption">
 		<p> 
@@ -44,7 +44,7 @@
 		
             <div class="item">
 			<center>
-            <img src="<?=base_url();?>assets/images/003.jpg" alt="">
+            <img src="<?=base_url();?>assets/images/003.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption">
         <p> 
@@ -59,7 +59,7 @@
 		
             <div class="item">
 			<center>
-            <img src="<?=base_url();?>assets/images/004.jpg" alt="">
+            <img src="<?=base_url();?>assets/images/004.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption">
         <p> 
@@ -74,7 +74,7 @@
 
             <div class="item">
 			<center>
-            <img src="<?=base_url();?>assets/images/005.jpg" alt="">
+            <img src="<?=base_url();?>assets/images/005.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption">
         <p> 
