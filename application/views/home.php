@@ -1,5 +1,4 @@
-﻿ <?php include_once('block/header.php');?>
-	<!-- Карусель -->
+﻿	<!-- Карусель -->
 	<div id="carousel" class="carousel slide">
     <!— Индикаторы слайдов —>
         <ol class="carousel-indicators"> 
@@ -128,6 +127,3 @@
 		
     	</div>
     </div>
-
-	<!-- Подвал -->
- <?php include('block/footer.php');?>

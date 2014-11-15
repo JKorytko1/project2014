@@ -40,6 +40,8 @@
 
 $route['default_controller'] = "main";
 $route['conference/(:any).php'] = 'main/conf/$1';
+$route['admin'] = 'admin/index';
+$route['admin/(:any).php'] = 'admin/items/$1';
 $route['(:any).php'] = 'main/item/$1';
 $route['404_override'] = '';
 

@@ -13,7 +13,7 @@
 			$this->load->view('index',array('data' => $data));
 		}
 		public function index(){
-			$this->load->view('home');
+			$this->layout('home');
 		}
 		public function item($alias = '')
 		{
