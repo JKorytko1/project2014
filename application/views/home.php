@@ -1,4 +1,4 @@
-﻿ <?php include('block/header.php');?>
+﻿ <?php include_once('block/header.php');?>
 	<!-- Карусель -->
 	<div id="carousel" class="carousel slide">
     <!— Индикаторы слайдов —>

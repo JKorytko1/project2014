@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>Кафедра "Системы и Процессы Управления"</title>
@@ -9,10 +7,7 @@
   <script src="http://code.jquery.com/jquery-latest.js"></script>
   <script src="<?=base_url();?>js/bootstrap.min.js"></script>
 </head>
-
 <body>
-  
-  <!-- Навигация -->
   <div class="navbar-wrapper">
       <div class="navbar navbar-inverse navbar-static-top">
         <div class="navbar-header">
@@ -37,4 +32,3 @@
         </div>      
       </div>
   </div>
- 
