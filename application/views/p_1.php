@@ -2,7 +2,7 @@
     <div class="row">
       	<div class="col-md-10 col-md-offset-2">
       		<div class="blog-post" style="margin-top: 35px;">
-	      		 <ins><h1>Ветроэнергетическая установка (ВЭУ)</h1></ins><br>
+	      		 <center><ins><h1>Ветроэнергетическая установка (ВЭУ)</h1></ins><br></center>
 				<p align="justify" style="text-indent:25px">
 				<p><img src="<?=base_url();?>assets/images/veu1.jpg" width="400" height="420" style="float:left; margin-right: 15px;"></p>
 				<p align="justify" style="text-indent:25px">Во время работы проекта была создана концепция, документ оценки рисков, установлены характеристики ВЭУ, определено местоположение;

@@ -2,7 +2,7 @@
     <div class="row">
       	<div class="col-md-10 col-md-offset-2">
              <div class="node node-page-view">
-			  <ins><h1>Разработка конструкции и системы управления мини-дирижаблем</h1></ins><br>
+			  <center><ins><h1>Разработка конструкции и системы управления мини-дирижаблем</h1></ins><br></center>
                 <div class="content"><center><iframe src="http://vk.com/video_ext.php?oid=5454167&amp;id=160710238&amp;hash=0c2306a392994c27&amp;sd" width="540" height="360" frameborder="0"></iframe></center>
 <p align="justify" style="text-indent:25px">Силами студентов на кафедре СПУ была разработана самоходная платформа на гусеничном ходу. Платформа может использоваться в качестве базы для саперного робота, робота-исследователя.</p>
 
