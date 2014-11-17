@@ -2,7 +2,7 @@
     <div class="row">
       	<div class="col-md-10 col-md-offset-2">
       		<div class="blog-post" style="margin-top: 35px;">
-	      		 <ins><h1>Разработка программы для анализа и прогноза скорости и направления ветра</h1></ins><br>				 
+	      		 <center><ins><h1>Разработка программы для анализа и прогноза скорости и направления ветра</h1></ins><br></center>				 
 				<p align="justify" style="text-indent:25px">
 				
 				<p align="justify" style="text-indent:25px">
