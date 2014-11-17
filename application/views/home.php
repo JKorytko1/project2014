@@ -1,4 +1,3 @@
-﻿ <?php include('block/header.php');?>
 	<!-- Карусель -->
 	<div id="carousel" class="carousel slide">
     <!— Индикаторы слайдов —>
@@ -14,7 +13,7 @@
 	
             <div class="item active">
 			<center>
-            <img src="image/001.jpg" width="100%" alt="">
+            <img src="<?=base_url();?>assets/images/001.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption"> 
 		<p> 
@@ -29,7 +28,7 @@
 	
             <div class="item">
 		    <center>
-            <img src="image/002.jpg" width="100%" alt="">
+            <img src="<?=base_url();?>assets/images/002.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption">
 		<p> 
@@ -124,20 +123,11 @@
 		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
 		            <p align="justify">Профессор Товажнянский Леонид Леонидович продолжает свою работу в должности ректора Национального технического университета «Харьковский политехнический институт». После окончания очередного срока (контракта) 19 января 2015 года будет объявлен конкурс на замещение должности ректора Национального технического университета «Харьковский политехнический институт» в соответствии с действующим законодательством Украины.<a href="news.php" target="_blank"> Читать далее</a></p>
           		</div>
-	          
-<<<<<<< HEAD
+     
+
           		<ul class="pager">
                     <li><a href="news.php" target="_blank">Читать все новости</a></li>
                 </ul>
-
-	            
-=======
-                    <ul class="pager">
-                    <li><a href="news.html" target="_blank">Читать все новости</a></li>
-                     </ul>
-          		
->>>>>>> curent
-
 	        </div>
     	</div>
     </div>
