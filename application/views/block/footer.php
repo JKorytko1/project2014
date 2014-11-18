@@ -1,10 +1,10 @@
 	 <footer>
       <center>
         <p>
-          <a href="department.php">История кафедры |</a>
-          <a href="teachers.php">Преподаватели |</a>
-          <a href="speciality.php">Специальности |</a>
-          <a href="contacts.php">Контакты</a>	
+          <a href="<?=base_url();?>index.php/department.php">История кафедры |</a>
+          <a href="<?=base_url();?>index.php/teachers.php">Преподаватели |</a>
+          <a href="<?=base_url();?>index.php/speciality.php">Специальности |</a>
+          <a href="<?=base_url();?>index.php/contacts.php">Контакты</a>	
         </p>
         <p>
           Copyright © 2014 

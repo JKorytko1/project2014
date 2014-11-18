@@ -1,4 +1,4 @@
-﻿ <?php include('block/header.php');?>
+ <?php include('block/header.php');?>
  <?php include('block/left-menu.php');?>
 
 <script>

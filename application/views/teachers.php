@@ -1,4 +1,4 @@
-﻿ <!-- 
+ <!-- 
 <div class="col-sm-9 col-sm-offset-3 col-md-9 col-md-offset-2 main">
 <div align="center" >
 <img src="pk.jpg" >

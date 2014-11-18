@@ -1,4 +1,4 @@
-﻿<!-- Контент -->
+<!-- Контент -->
 
 <div class="container" style="margin-bottom: 60px;">
 	<div class="row">
