@@ -5,7 +5,7 @@
 
       <ul class="nav nav-sidebar">
         <li><h4>Научные и методические материалы</h4></li>
-        <li><a href="#">Книги, методические пособия</a></li>
+        <li><a href="books.php">Книги, методические пособия</a></li>
         <li><a href="projects.php">Студенческие проекты</a></li>
         <li><a href="articles.php">Статьи</a></li>
       </ul>
