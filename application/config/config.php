@@ -13,7 +13,7 @@
 | If this is not set then CodeIgniter will guess the protocol, domain and
 | path to your installation.
 |
-*/ PLEASE BE CAREFUL WHEN TO COMMIT IT
+*/ //PLEASE BE CAREFUL WHEN TO COMMIT IT !!!
  //$config['base_url'] = 'http://localhost/project2014/';
 $config['base_url']	= 'http://classes.aasiutin.com/';
 
