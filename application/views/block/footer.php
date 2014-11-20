@@ -8,8 +8,8 @@
         </p>
         <p>
           Copyright © 2014 
-          <a href="http://www.kpi.kharkov.ua/ru/">НТУ "ХПИ"</a>
-        </p>
+          <a href="http://www.kpi.kharkov.ua/ru/" target="_blank">НТУ "ХПИ"</a>
+		</p>
       </center>
     </footer>
 
