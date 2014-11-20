@@ -1,5 +1,4 @@
-﻿ <?php include('block/header.php');?>
-	<!-- Карусель -->
+﻿	<!-- Карусель -->
 	<div id="carousel" class="carousel slide">
     <!— Индикаторы слайдов —>
         <ol class="carousel-indicators"> 
@@ -12,41 +11,33 @@
     <!— Слайды —>
     <div class="carousel-inner">
 	
-            <div class="item active">
+        <div class="item active">
 			<center>
-            <img src="image/001.jpg" width="100%" alt="">
+            <img src="<?=base_url();?>assets/images/001.jpg" width="100%" alt="">
 			</center>
-            <div class="carousel-caption"> 
-            </div>
         </div>
 	
-            <div class="item">
+        <div class="item">
 		    <center>
-            <img src="image/002.jpg" width="100%" alt="">
+            <img src="<?=base_url();?>assets/images/002.jpg" width="100%" alt="">
 			</center>
-            <div class="carousel-caption">
-            </div>
+        </div>
+		
+        <div class="item">
+			<center>
+            <img src="<?=base_url();?>assets/images/003.jpg" width="100%" alt="">
+			</center>
         </div>
 		
             <div class="item">
 			<center>
-            <img src="image/003.jpg" width="100%" alt="">
+            <img src="<?=base_url();?>assets/images/004.jpg" width="100%" alt="">
 			</center>
-            <div class="carousel-caption">
-            </div>
-        </div>
-		
-            <div class="item">
-			<center>
-            <img src="image/004.jpg" width="100%" alt="">
-			</center>
-            <div class="carousel-caption">
-            </div>
         </div>
 
             <div class="item">
 			<center>
-            <img src="image/005.jpg" width="100%" alt="">
+            <img src="<?=base_url();?>assets/images/005.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption">
             </div>
@@ -76,36 +67,21 @@
 	
     <div class="container" id="news">
     	<div class="row">
-    		<div class="col-md-12 blog-main">
+    		<div class="col-md-12">
 
-				<div class="blog-post">
 		            <h2 class="blog-post-title">Изменения графика учебного процесса</h2>
-		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
-		            <p align="justify">В 2014–2015 учебный год внесены некоторые изменения отдельных элементов графика учебного процесса. Однако эти изменения не коснутся количества отведенного для учебы времени и не повлияют на качество учебного процесса. То есть, количество часов останется прежним: 16 недель лекционных и практических занятий с понедельника по пятницу. Суббота останется выходным днем.<a href="news.php" target="_blank"> Читать далее</a></p>
-	       		</div>
-	          	
-	       		<div class="blog-post">
-		            <h2 class="blog-post-title">Товажнянский продолжает свою работу в должности ректора</h2>
-		            <p class="blog-post-meta">Октябрь 21, 2014 by <a href="news.html">Admin</a></p>
-		            <p align="justify">Профессор Товажнянский Леонид Леонидович продолжает свою работу в должности ректора Национального технического университета «Харьковский политехнический институт». После окончания очередного срока (контракта) 19 января 2015 года будет объявлен конкурс на замещение должности ректора Национального технического университета «Харьковский политехнический институт» в соответствии с действующим законодательством Украины.<a href="news.php" target="_blank"> Читать далее</a></p>
-          		</div>
-	          
-<<<<<<< HEAD
-          		<ul class="pager">
-                    <li><a href="news.php" target="_blank">Читать все новости</a></li>
-                </ul>
-
-	            
-=======
-                    <ul class="pager">
-                    <li><a href="news.html" target="_blank">Читать все новости</a></li>
-                     </ul>
+		            <p class="blog-post-meta">Октябрь 21, 2014 by Admin</a></p>
+		            <p align="justify"><big>В 2014–2015 учебный год внесены некоторые изменения отдельных элементов графика учебного процесса. Однако эти изменения не коснутся количества отведенного для учебы времени и не повлияют на качество учебного процесса. То есть, количество часов останется прежним: 16 недель лекционных и практических занятий с понедельника по пятницу. Суббота останется выходным днем.<a href="<?=base_url();?>index.php/news.php"> Читать далее</a></big></p>
+	       		
+                    <h2 class="blog-post-title">Товажнянский продолжает свою работу в должности ректора</h2>
+		            <p class="blog-post-meta">Октябрь 21, 2014 by Admin</a></p>
+		            <p align="justify"><big>Профессор Товажнянский Леонид Леонидович продолжает свою работу в должности ректора Национального технического университета «Харьковский политехнический институт». После окончания очередного срока (контракта) 19 января 2015 года будет объявлен конкурс на замещение должности ректора Национального технического университета «Харьковский политехнический институт» в соответствии с действующим законодательством Украины.<a href="<?=base_url();?>index.php/news.php"> Читать далее</a></big></p>
           		
->>>>>>> curent
-
+          		<ul class="blog-main pager">
+                    <li><a href="<?=base_url();?>index.php/news.php" >Читать все новости</a></li>
+                </ul>
+      
 	        </div>
     	</div>
     </div>
 
-	<!-- Подвал -->
- <?php include('block/footer.php');?>
