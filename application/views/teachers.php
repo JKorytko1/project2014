@@ -64,7 +64,7 @@
 					<p><big><strong>Профессор кафедры </strong> систем и процессов управления. Доктор технических наук по специальности «Динамика и прочность машин» (2009). 
 					Профессор по кафедре систем и процессов управления (2014). 
 					Академик Академии наук Высшей школы Украины по отделению механики и машиностроения (2013).</big></p>
-					<p><big><strong>Читаемые курсы: </strong> <a href="discipline.php#Theoretical and analytical mechanics">Теоретическая и аналитическая механика.</a>
+					<p><strong><big>Читаемые курсы: </strong> <a href="discipline.php#Theoretical and analytical mechanics">Теоретическая и аналитическая механика.</a>
 					<a href="discipline.php#Rigid body dynamics">Динамика твердого тела.</a>
 					<a href="discipline.php#mechanics of Flight">Механика полета.</a>
 					Теория колебаний.
