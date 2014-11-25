@@ -15,7 +15,7 @@
 |
 */ //PLEASE BE CAREFUL WHEN COMMIT IT !!!
  //$config['base_url'] = 'http://localhost/project2014/';
-config['base_url']	= 'http://classes.aasiutin.com/';
+$config['base_url']	= 'http://classes.aasiutin.com/';
 
 /*
 |--------------------------------------------------------------------------
