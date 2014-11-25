@@ -7,13 +7,13 @@
 				<div class="text-block" style="margin-top: -800px;">
 					<center>
 						</br><br>   </br><br>
-						<h1 style="color:#FFE4E1;"><big><b>СПЕЦИАЛЬНОСТИ КАФЕДРЫ</b></big></h1>
+						<p style="color:#FFE4E1;"><big><b>СПЕЦИАЛЬНОСТИ КАФЕДРЫ</b></big></p>
 						<br></br></br><br>   </br><br> 
-						<a href="inform.php"><h1 style="color:White;"><big><center>Информатика</center></big></h1></a>
+						<a href="inform.php"><p style="color:White;"><big><center>Информатика</center></big></p></a>
 						<br></br>
-						<a href="mathematic.php"><h1 style="color:White"><big><center>Прикладная математика</center></big></h1></a>
+						<a href="mathematic.php"><p style="color:White"><big><center>Прикладная математика</center></big></p></a>
 						<br></br>
-						<a href="system.php"> <h1 style="color:White"> <big><center>Системное проектирование</center></big></h1></a>
+						<a href="system.php"> <p style="color:White"> <big><center>Системное проектирование</center></big></p></a>
 					</center>
 				</div>
 				<div class="other" style="margin-top: 350px;"></div>
