@@ -81,7 +81,7 @@
 					<strong><p style="color:#B22222"><big>Успенский Валерий Борисович</big></p></strong>
 					<p><big><strong>Профессор кафедры </strong> систем и процессов управления. Доктор технических наук по специальности «Системы и процессы управления» (2012). 
 					Доцент по кафедре автоматического управления движением (1998).</big></p>
-					<p><big><strong>Читаемые курсы: </strong> <a href="discipline.php#Control Theory">Теория управления.</a>
+					<p><big><strong>Читаемые курсы:</strong> <a href="discipline.php#Control Theory">Теория управления.</a>
 					<a href="discipline.php#operations Research">Исследование операций.</a>
 					Современная теория управления. 
 					<a href="discipline.php#Numerical methods for optimal control">Численные методы оптимального управления.</a>
@@ -100,7 +100,7 @@
 					<p><big><strong>Доцент кафедры </strong> систем и процессов управления. Кандидат технических наук (1971). 
 					Доцент по кафедре автоматического управления движением (1976).
 					Награжден Грамотой Главного управления образования и науки Харьковской областной государственной администрации (2005).</big></p>
-					<p><big><strong>Читаемые курсы: </strong> <a href="discipline.php#pulse technique">Импульсная техника.</a>
+					<p><big><strong>Читаемые курсы:</strong> <a href="discipline.php#pulse technique">Импульсная техника.</a>
 					<a href="discipline.php#Information Theory and Coding">Теория информации и кодирование.</a>
 				    <a href="discipline.php#Computer and microprocessor systems">ЭВМ и микропроцессорные системы.</a>
 					<a href="discipline.php#Monitored devices and adaptive filters">Наблюдающие устройства и адаптивные фильтры</a></big></p>
