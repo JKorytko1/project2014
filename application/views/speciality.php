@@ -10,9 +10,9 @@
 						<p style="color:#FFE4E1;"><big><b>СПЕЦИАЛЬНОСТИ КАФЕДРЫ</b></big></p>
 						<br></br></br><br>   </br><br> 
 						<a href="inform.php"><p style="color:White;"><big><center>Информатика</center></big></p></a>
-						<br></br>
+						<br></br> </br><br> 
 						<a href="mathematic.php"><p style="color:White"><big><center>Прикладная математика</center></big></p></a>
-						<br></br>
+						<br></br> </br><br> 
 						<a href="system.php"> <p style="color:White"> <big><center>Системное проектирование</center></big></p></a>
 					</center>
 				</div>
