@@ -11,81 +11,47 @@
     <!— Слайды —>
     <div class="carousel-inner">
 	
-            <div class="item active">
+        <div class="item active">
 			<center>
             <img src="<?=base_url();?>assets/images/001.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption"> 
-		<p> 
-		<h1>
-		<font color="#FFFFFF">
-		Кафедра Cистем и процессов управления (до 2001 года — автоматического управления движением) была создана в 1964 году в связи с актуальными потребностями технического прогресса.
-		</font>
-		</h1>
-		</p>
             </div>
         </div>
 	
-            <div class="item">
+        <div class="item">
 		    <center>
             <img src="<?=base_url();?>assets/images/002.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption">
-		<p> 
-		<h1>
-		<font color="#FFFFFF">
-        Студенты, обучающиеся по специальности Информатика, изучают не только информационные технологии, но и различные математические курсы, такие как Математический анализ, Теория вероятностей и другие.
-		</font>
-		</h1>
-		</p>
             </div>
         </div>
 		
-            <div class="item">
+        <div class="item">
 			<center>
             <img src="<?=base_url();?>assets/images/003.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption">
-        <p> 
-		<h1>
-		<font color="#FFFFFF">
-        Полученное студентами инфиза фундаментальное образование по математическим и компьютерным дисциплинам позволяет им стать специалистами высокой квалификации с мощным творческим потенциалом.
-		</font>
-		</h1>
-		</p>
             </div>
         </div>
 		
-            <div class="item">
+        <div class="item">
 			<center>
             <img src="<?=base_url();?>assets/images/004.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption">
-        <p> 
-		<h1>
-		<font color="#FFFFFF">
-        Профилизация подготовки будущих специалистов, принятая на кафедре - «Информационное обеспечение систем управления реального времени».
-		</font>
-		</h1>
-		</p>
             </div>
         </div>
 
-            <div class="item">
+        <div class="item">
 			<center>
             <img src="<?=base_url();?>assets/images/005.jpg" width="100%" alt="">
 			</center>
             <div class="carousel-caption">
-        <p> 
-		<h1>
-		<font color="#FFFFFF">
-        Выпускники имеют возможность работать в конструкторских организациях, информационно-аналитических службах, центрах новых информационных технологий и финансовых структурах.
-		</font>
-		</h1>
-		</p>
             </div>
         </div>	
     </div>
+	
     <!— Стрелки переключения слайдов —>
         <a href="#carousel" class="left carousel-control" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
