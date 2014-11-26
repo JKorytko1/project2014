@@ -23,8 +23,8 @@
 			<td style="width:700px;height:11px;">
 				<p>
 					<strong><p style="color:#B22222"><big>Бреславский Дмитрий Васильевич</p></big></strong>
-					<p align="center"><big><b>Заведующий кафедрой систем и процессов управления.</b></big> </p>
-					<p align="justify"><big></br>Декан инженерно-физического факультета.
+					<p align="center"><big><b>Заведующий кафедрой систем и процессов управления.</b></big></p>
+					<p align="justify"><big>Декан инженерно-физического факультета.
 Доктор технических наук по специальности «Динамика и прочность машин» (2000). Профессор по кафедре систем и 
 процессов управления (2005). Академик Академии наук Высшей школы Украины по отделению механики и машиностроения 
 (2006).</big></p>
@@ -64,7 +64,11 @@
 					<p><big><strong>Профессор кафедры </strong> систем и процессов управления. Доктор технических наук по специальности «Динамика и прочность машин» (2009). 
 					Профессор по кафедре систем и процессов управления (2014). 
 					Академик Академии наук Высшей школы Украины по отделению механики и машиностроения (2013).</big></p>
+<<<<<<< HEAD
 					<p><strong><big>Читаемые курсы: </strong> <a href="discipline.php#Theoretical and analytical mechanics">Теоретическая и аналитическая механика.</a>
+=======
+					<p><big><strong>Читаемые курсы: </strong> <a href="discipline.php#Theoretical and analytical mechanics">Теоретическая и аналитическая механика.</a>
+>>>>>>> 2cf1956f564143a46d2c29b99349f96c4b4dc6fd
 					<a href="discipline.php#Rigid body dynamics">Динамика твердого тела.</a>
 					<a href="discipline.php#mechanics of Flight">Механика полета.</a>
 					Теория колебаний.
@@ -81,7 +85,11 @@
 					<strong><p style="color:#B22222"><big>Успенский Валерий Борисович</big></p></strong>
 					<p><big><strong>Профессор кафедры </strong> систем и процессов управления. Доктор технических наук по специальности «Системы и процессы управления» (2012). 
 					Доцент по кафедре автоматического управления движением (1998).</big></p>
+<<<<<<< HEAD
 					<p><big><strong>Читаемые курсы:</strong> <a href="discipline.php#Control Theory">Теория управления.</a>
+=======
+					<p><big><strong>Читаемые курсы: </strong> <a href="discipline.php#Control Theory">Теория управления.</a>
+>>>>>>> 2cf1956f564143a46d2c29b99349f96c4b4dc6fd
 					<a href="discipline.php#operations Research">Исследование операций.</a>
 					Современная теория управления. 
 					<a href="discipline.php#Numerical methods for optimal control">Численные методы оптимального управления.</a>
@@ -100,7 +108,11 @@
 					<p><big><strong>Доцент кафедры </strong> систем и процессов управления. Кандидат технических наук (1971). 
 					Доцент по кафедре автоматического управления движением (1976).
 					Награжден Грамотой Главного управления образования и науки Харьковской областной государственной администрации (2005).</big></p>
+<<<<<<< HEAD
 					<p><big><strong>Читаемые курсы:</strong> <a href="discipline.php#pulse technique">Импульсная техника.</a>
+=======
+					<p><big><strong>Читаемые курсы: </strong> <a href="discipline.php#pulse technique">Импульсная техника.</a>
+>>>>>>> 2cf1956f564143a46d2c29b99349f96c4b4dc6fd
 					<a href="discipline.php#Information Theory and Coding">Теория информации и кодирование.</a>
 				    <a href="discipline.php#Computer and microprocessor systems">ЭВМ и микропроцессорные системы.</a>
 					<a href="discipline.php#Monitored devices and adaptive filters">Наблюдающие устройства и адаптивные фильтры</a></big></p>
@@ -245,7 +257,7 @@
 					<strong><p style="color:#B22222"><big>Асютин Алексей Дмитриевич</big></p></strong>
 					<p><big><strong>Ассистент</strong> кафедры систем и процессов управления.
 					Магистр, инженер-математик-исследователь по специальности «Прикладная математика», НТУ «ХПИ» (2008).</h4></p>
-					<p><h4><strong>Читаемые курсы: </strong> <a href="discipline.php#programming theory">Теория программирования.</a>
+					<p><big><strong>Читаемые курсы: </strong> <a href="discipline.php#programming theory">Теория программирования.</a>
 					Программирование и поддержка web-приложений.</big></p>
 			</td>
 		</tr>
