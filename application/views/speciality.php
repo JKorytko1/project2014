@@ -16,7 +16,6 @@
 						<a href="system.php"> <h1 style="color:White"> <big><center>Системное проектирование</center></big></h1></a>
 					</center>
 				</div>
-				<div class="other" style="margin-top: 350px;"></div>
 			</div>
 		</div>		
 	</div>
