@@ -1,185 +1,90 @@
- <?php include('block/header.php');?>
- <?php include('block/left-menu.php');?>
 
-<script>
-  function collapsElement(id) {
-    if ( document.getElementById(id).style.display != "none" ) {
-      document.getElementById(id).style.display = 'none';
-    }
-    else {
-      document.getElementById(id).style.display = '';
-    }
-  }
-</script>
-
-<!--<html lang="en">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>Кафедра "Системы и Процессы Управления"</title>
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
- -->
-
-
-
- <!-- Навигация -->
-  <!--<div class="navbar-wrapper">
-      <div class="navbar navbar-inverse navbar-static-top">
-        <div class="navbar-header">
-          <a href="index.html" class="navbar-brand">КАФЕДРА Системы и Процессы Управления</a>
-        </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-              <li><a href="#">Новости</a></li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">О кафедре <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                  <li><a href="department.html">История кафедры</a></li>
-                  <li><a href="teachers.html">Преподаватели</a></li>
-                  <li><a href="speciality.html">Специальности</a></li>
-                  <li><a href="#">Предметы</a></li>
-              </ul>
-              </li>
-              <li><a href="#">Абитуриенту</a></li>
-              <li><a href="conference.html">Конференции</a></li>
-              <li><a href="contacts.html">Контакты</a></li>
-          </ul>
-        </div>      
-      </div>
-  </div>
-  
-    <p>
-	<div class="container-fluid">
-      <div class="row">
-	   <div class="col-sm-3 col-md-2 sidebar">
-          <ul class="nav nav-sidebar">
-            <li><h4>Научные и методические материалы</h4></li>
-            <li><a href="#">Книги, методические пособия</a></li>
-            <li><a href="#">Студенческие проекты</a></li>
-            <li><a href="#">Статьи</a></li>
-          </ul>
-          <ul class="nav nav-sidebar">
-            <li><h4>Студенту</h4></li>
-            <li><a href="">Группы</a></li>
-            <li><a href="gallery.php">Фотогалерея</a></li>
-            <li><a href="">Профсоюз студентов</a></li>
-          </ul>
-          <ul class="nav nav-sidebar">
-		    <li><h4>Ссылки на ресурсы</h4></li>
-            <li><a href="http://ivit.freeforum.bz" target="_blank">Форум Technopages</a></li>
-            <li><a href="http://myacademy.com.ua" target="_blank">Учебные материалы on line</a></li>
-            <li><a href="http://grades.aasiutin.com" target="_blank">Электронная зачетка</a></li>
-          </ul>
-        </div>
-	</div>
-	</div>
-		</p>
-  -->
-<div id="content" >
-    <div id="text" >
-      <table class="table table-striped">
-      <thead>
-        <tr>
-          <th> Альбомы фотографий</th>
-        </tr>
-      </thead>
-      <tr>
-        <td> <p style="text-align:center"><a href="https://vk.com/album-73612507_204466707"><img src="<?=base_url();?>assets/photos/DF.jpg" height="150" width="200" />
-          День Факультета 2014</a></p> </td>
-        <td> <p style="text-align:center"><a href="https://vk.com/album-73612507_204466707"><img src="<?=base_url();?>assets/photos/DF.jpg" height="150" width="200" />
-        День Факультета 2014</a></p> </td>
-      </tr>
-    </table>
-    </div>
- 
-
-
-	<div align="center">
-		<p><h1>Фотогалерея</p>
-		<br><br><br>  
-
-   <!-- Карусель -->
-  <div id="carousel" class="carousel slide">
-    <!— Индикаторы слайдов —>
-        <ol class="carousel-indicators"> 
-              <li class="active" data-target="#carousel" data-slide-to="0"></li>
-                <li data-target="#carousel" data-slide-to="1"></li>
-                <li data-target="#carousel" data-slide-to="2"></li>
-               <li data-target="#carousel" data-slide-to="3"></li>
-                <li data-target="#carousel" data-slide-to="4"></li>
-        </ol>
-    <!— Слайды —>
-    <div class="carousel-inner">
-  
-            <div class="item active">
-      <center>
-            <img src="<?=base_url();?>assets/photos/1.jpg" height="500" alt="">
-      </center>
-            <div class="carousel-caption"> 
-    
-            </div>
-        </div>
-  
-            <div class="item">
-        <center>
-            <img src="<?=base_url();?>assets/photos/2.jpg" height="500" alt="">
-      </center>
-            <div class="carousel-caption">
-    
-            </div>
-        </div>
-    
-            <div class="item">
-      <center>
-            <img src="<?=base_url();?>assets/photos/3.jpg" height="500" alt="">
-      </center>
-            <div class="carousel-caption">
-      
-            </div>
-        </div>
-    
-           <div class="item">
-      <center>
-            <img src="<?=base_url();?>assets/photos/6.jpg" height="500" alt="">
-      </center>
-            <div class="carousel-caption">
+<div class="container">
+   <div class="row">
+      <div class="col-md-10 col-md-offset-2">
         
+        <div class="gallery">
+          <center>
+            <h1>Фотогалерея<br><small>Случайные фотографии</small></h1><br>
+          </center>
+        </div>
+
+        <div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin-bottom: 35px;">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1" class=""></li>
+            <li data-target="#myCarousel" data-slide-to="2" class=""></li>
+            <li data-target="#myCarousel" data-slide-to="3" class=""></li>
+            <li data-target="#myCarousel" data-slide-to="4" class=""></li>
+          </ol>
+
+          <div class="carousel-inner" role="listbox">
+            <div class="item active">
+              <img src="<?=base_url();?>assets/photos/1.jpg" alt="First slide" style="height: 630px; width: 100%">
             </div>
-        </div> 
-
-           <div class="item">
-      <center>
-            <img src="<?=base_url();?>assets/photos/8.jpg"  height="500"alt="">
-      </center>
-            <div class="carousel-caption">
-
+            <div class="item">
+              <img src="<?=base_url();?>assets/photos/2.jpg" alt="Second slide" style="height: 630px; width: 100%">
             </div>
-        </div> 
-    </div>
-    <!— Стрелки переключения слайдов —>
-        <!--<a href="#carousel" class="left carousel-control" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-        </a> -->
-        <a href="#carousel" class="right carousel-control" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-        </a>
-    </div>
+            <div class="item">
+              <img src="<?=base_url();?>assets/photos/3.jpg" alt="Third slide" style="height: 630px; width: 100%">
+            </div>
+            <div class="item">
+              <img src="<?=base_url();?>assets/photos/6.jpg" alt="Third slide" style="height: 630px; width: 100%">
+            </div>
+            <div class="item">
+              <img src="<?=base_url();?>assets/photos/8.jpg" alt="Third slide" style="height: 630px; width: 100%">
+            </div>
+          </div>
 
-</div> 
-<!--KARUSEL KONEC-->
-   
+          <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
 
- </div>
+        <div class="albums-title">
+            <div class="col-lg-12">
+                <center>  
+                  <h2 class="page-header">Альбомы фотографий</h2>
+                </center>
+            </div>
+        </div>
 
+        <div class="albums">
+            <div class="col-md-4 portfolio-item" style="margin-bottom: 50px;">
+                <a href="https://vk.com/album-73612507_204466707">
+                    <img class="img-responsive" src="<?=base_url();?>assets/photos/DF.jpg" alt="" style="width: 260px; height: 175px;">
+                </a>
+                <h3>
+                    <a href="https://vk.com/album-73612507_204466707">День факультета 2014. Инженерно-физический отпраздновал 84 года!</a>
+                </h3>
+                <p>17 апреля состоялся День И факультета. На празднике выступили творческие коллективы Дворца студентов НТУ "ХПИ" инструментальный folk-band "Отакої", ансамбль народного танца "Катюша", Sunday Morning Band. В составе этих коллективов выступают студенты и аспиранты инженерно-физического факультета.</p>
+            </div>
+            <div class="col-md-4 portfolio-item" style="margin-bottom: 50px;">
+                <a href="https://vk.com/album-73612507_204467040">
+                    <img class="img-responsive" src="<?=base_url();?>assets/photos/QF.jpg" alt="" style="width: 260px; height: 175px;">
+                </a>
+                <h3>
+                    <a href="https://vk.com/album-73612507_204467040">Quest-factor: история повторяется</a>
+                </h3>
+                <p>Вот и он, новый учебный год! В Политехе много новых озадаченных лиц. Это всё первокурсники. Бегают, метушатся, не знают куда идти, что и как делать? Новые преподаватели, предметы, учебники, уйма материала и новых требований... И чтобы внести хоть какую-то ясность и определенность в студенческую жизнь Профбюро студентов И факультета...</p>
+            </div>
+            <div class="col-md-4 portfolio-item" style="margin-bottom: 50px;">
+                <a href="https://vk.com/album-73612507_203968708">
+                    <img class="img-responsive" src="<?=base_url();?>assets/photos/S4.jpg" alt="" style="width: 260px; height: 175px;">
+                </a>
+                <h3>
+                    <a href="https://vk.com/album-73612507_203968708">Научно-техническая конференция "Сергеевские чтения"</a>
+                </h3>
+                <p>Научно-техническая конференция "Сергеевские чтения" (12 сентября 2014г.), посвященная 100-летию со дня рождения академика В.Г. Сергеева и 50-летию создания специальности "Динамика и управление".</p>
+            </div>
+        </div>
 
-
-
-<!--<p style="text-align:center"><a href="https://vk.com/album-73612507_204466707"><img src="photo/DF.jpg" height="150" width="200" />
-День Факультета 2014</a></p>
-  <p style="text-align:center"><a href="https://vk.com/album-73612507_204466707"><img src="photo/DF.jpg" height="150" width="200" />
-День Факультета 2014</a></p> -->
-
-<!-- Подвал -->
-  <div id="footer">
-  <?php include('block/footer.php');?>
+      </div>
+   </div>
 </div>
-	

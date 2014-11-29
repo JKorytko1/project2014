@@ -9,9 +9,8 @@
     <div class="row">
   		<div class="col-md-10 col-md-offset-2">
   			
-  			<center><p><b><h1 class="blog-post-title" style="color:#000080;"><big>Преподаватели кафедры</big></h1></b></p></center>
-			<br></br>
-			<table bgcolor=transparent border="0" cellpadding="2" cellspacing="1" style="margin-top: 15px;">
+  			<center><p><b><h1 class="blog-post-title" style="color:#000080; margin-top: 40px;"><big>Преподаватели кафедры</big></h1></b></p></center><br>
+			<table bgcolor=transparent border="0" cellpadding="2" cellspacing="1" style="margin-top: 5px;">
 				<tbody>
 
 					<tr>
@@ -23,7 +22,7 @@
 			<td style="width:700px;height:11px;">
 				<p>
 					<strong><p style="color:#B22222"><big>Бреславский Дмитрий Васильевич</p></big></strong>
-					<p align="center"><big><b>Заведующий кафедрой систем и процессов управления.</b></big></p>
+					<p align="justify"><big><b>Заведующий кафедрой систем и процессов управления.</b></big></p>
 					<p align="justify"><big>Декан инженерно-физического факультета.
                      Доктор технических наук по специальности «Динамика и прочность машин» (2000). Профессор по кафедре систем и 
                      процессов управления (2005). Академик Академии наук Высшей школы Украины по отделению механики и машиностроения 
