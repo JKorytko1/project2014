@@ -13,7 +13,7 @@
 
 <div class="container">
 	<div class="row">
-  		<div class="col-md-10 col-md-offset-2" style="margin-top: -50px; margin-bottom: 100px;">
+  		<div class="col-md-10 col-md-offset-2">
   			<div class="blog-post">
 	  			<h2 class="blog-post-title" align="center">Сергеевские чтения</h2>
 				<h4 align="justify" style="text-indent:25px">12 Сентября 2014 г. состоится научно-техническая конференция "Сергеевские чтения", посвящення 100-летию со дня рождения академика В.Г.Сергеева и 50-летию создания специальности "Динамика полета и управление". Приглашаем всех желающих принять участие в конференции!</h4>
@@ -26,6 +26,16 @@
 				<div align="justify" style="text-indent:25px"><h4>Научная конференция ММТТ-25 проводится для обсуждения опыта использования математических методов в технике и технологии и современных направлений математического и компьютерного обеспечения технологических и технических систем.</h4></div>
 				<div class="blog-post-meta"><a href="conference/MMTT25.php">Подробнее</a></div>
 			</div>
+			<div class="blog-post">
+				<h2 class="blog-post-title" align="center">Нелинейная динамика 2013</h2>
+				<div class="blog-post-meta"><a href="conference/NonlinearDynamics_2013.php">Подробнее</a></div>
+			</div>
+			<div class="blog-post">
+				<h2 class="blog-post-title" align="center">Нелинейная динамика 2010</h2>
+				<h4 align="justify" style="text-indent:25px">3 МЕЖДУНАРОДНАЯ КОНФЕРЕНЦИЯ "НЕЛИНЕЙНАЯ ДИНАМИКА - 2010" прошла в Национальном техническом университете «Харьковский политехнический институт" (Харьков, Украина) 21-24 сентября, 2010 года. Конференция была посвящена 125-летию Харьковского национального технического университета. Всего 91 ученых из Армении, Канады, Германии, Греции, Италии, Японии, Латвии, Польши, России, Сербии, Великобритании, Украины, США и Узбекистана приняли участие в конференции.</h4>
+				<div class="blog-post-meta"><a href="conference/NonlinearDynamics2010.php">Подробнее</a></div>
+			</div>
+			<div style="margin-bottom: 500px;"></div>
 		</div>
 	</div>
 </div>
