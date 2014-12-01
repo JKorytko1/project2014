@@ -1,7 +1,7 @@
 <div class="container-fluid">
   <div class="row">
     <!-- <div class="col-sm-3 col-md-2 sidebar" style="position:absolute"> -->
-    <div class="col-md-2 sidebar" style="position:absolute">
+    <div class="col-md-2 sidebar" style="position:absolute; margin-top: -20px;">
 
       <ul class="nav nav-sidebar">
         <li><h4>Научные и методические материалы</h4></li>

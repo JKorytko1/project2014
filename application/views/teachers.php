@@ -9,9 +9,8 @@
     <div class="row">
   		<div class="col-md-10 col-md-offset-2">
   			
-  			<center><p><b><h1 class="blog-post-title" style="color:#000080;"><big>Преподаватели кафедры</big></h1></b></p></center>
-			<br></br>
-			<table bgcolor=transparent border="0" cellpadding="2" cellspacing="1" style="margin-top: 15px;">
+  			<center><p><b><h1 class="blog-post-title" style="color:#000080; margin-top: 40px;"><big>Преподаватели кафедры</big></h1></b></p></center><br>
+			<table bgcolor=transparent border="0" cellpadding="2" cellspacing="1" style="margin-top: 5px;">
 				<tbody>
 
 					<tr>
@@ -23,15 +22,15 @@
 			<td style="width:700px;height:11px;">
 				<p>
 					<strong><p style="color:#B22222"><big>Бреславский Дмитрий Васильевич</p></big></strong>
-					<p align="center"><big><b>Заведующий кафедрой систем и процессов управления.</b></big> </p>
-					<p align="justify"><big></br>Декан инженерно-физического факультета.
-Доктор технических наук по специальности «Динамика и прочность машин» (2000). Профессор по кафедре систем и 
-процессов управления (2005). Академик Академии наук Высшей школы Украины по отделению механики и машиностроения 
-(2006).</big></p>
-<p align="justify"><big><strong>Читаемые курсы: </strong> <a href="discipline.php#Equations of mathematical physics">Уравнения математической физики.</a> 
-<a href="discipline.php#Numerical methods of mathematical physics">Численные методы математической физики.</a>
- <a href="discipline.php#Programming">Программирование.</a></big></p>
-</big>
+					<p align="justify"><big><b>Заведующий кафедрой систем и процессов управления.</b></big></p>
+					<p align="justify"><big>Декан инженерно-физического факультета.
+                     Доктор технических наук по специальности «Динамика и прочность машин» (2000). Профессор по кафедре систем и 
+                     процессов управления (2005). Академик Академии наук Высшей школы Украины по отделению механики и машиностроения 
+                   (2006).</big></p>
+                   <p align="justify"><big><strong>Читаемые курсы: </strong> <a href="discipline.php#Equations of mathematical physics">Уравнения математической физики.</a> 
+                    <a href="discipline.php#Numerical methods of mathematical physics">Численные методы математической физики.</a>
+                   <a href="discipline.php#Programming">Программирование.</a></big></p>
+                     </big>
 					</p>
 			</td>
 		</tr>
@@ -45,12 +44,12 @@
 				<p>
 					<strong><p style="color:#B22222"><big>Плаксий Юрий Андреевич</big></p></strong>
 					<p align="justify"><big><b>Исполняющий обязанности заведующего кафедрой</b> систем и процессов управления, профессор кафедры.
-Кандидат технических наук по специальности «Управление в технических системах» (1993). Профессор по кафедре 
-автоматического управления движением (2000).</big></p>
-<p><big><strong>Читаемые курсы: </strong> <a href="discipline.php#calculation Methods">Методы вычислений.</a> 
-<a href="discipline.php#optimization Methods">Методы оптимизации.</a> 
- <a href="discipline.php#mechanics of Flight">Механика полета.</a>
- Методы вычислительного эксперимента.</big></p>
+                     Кандидат технических наук по специальности «Управление в технических системах» (1993). Профессор по кафедре 
+                     автоматического управления движением (2000).</big></p>
+                     <p><big><strong>Читаемые курсы: </strong> <a href="discipline.php#calculation Methods">Методы вычислений.</a> 
+                      <a href="discipline.php#optimization Methods">Методы оптимизации.</a> 
+                       <a href="discipline.php#mechanics of Flight">Механика полета.</a>
+                      Методы вычислительного эксперимента.</big></p>
 			</td>
 		</tr>
 		<tr>
@@ -100,7 +99,7 @@
 					<p><big><strong>Доцент кафедры </strong> систем и процессов управления. Кандидат технических наук (1971). 
 					Доцент по кафедре автоматического управления движением (1976).
 					Награжден Грамотой Главного управления образования и науки Харьковской областной государственной администрации (2005).</big></p>
-					<p><big><strong>Читаемые курсы: </strong> <a href="discipline.php#pulse technique">Импульсная техника.</a>
+					<p><big><strong>Читаемые курсы:</strong> <a href="discipline.php#pulse technique">Импульсная техника.</a>
 					<a href="discipline.php#Information Theory and Coding">Теория информации и кодирование.</a>
 				    <a href="discipline.php#Computer and microprocessor systems">ЭВМ и микропроцессорные системы.</a>
 					<a href="discipline.php#Monitored devices and adaptive filters">Наблюдающие устройства и адаптивные фильтры</a></big></p>
@@ -244,8 +243,8 @@
 				<p>
 					<strong><p style="color:#B22222"><big>Асютин Алексей Дмитриевич</big></p></strong>
 					<p><big><strong>Ассистент</strong> кафедры систем и процессов управления.
-					Магистр, инженер-математик-исследователь по специальности «Прикладная математика», НТУ «ХПИ» (2008).</h4></p>
-					<p><h4><strong>Читаемые курсы: </strong> <a href="discipline.php#programming theory">Теория программирования.</a>
+					Магистр, инженер-математик-исследователь по специальности «Прикладная математика», НТУ «ХПИ» (2008).</big></p>
+					<p><big><strong>Читаемые курсы: </strong> <a href="discipline.php#programming theory">Теория программирования.</a>
 					Программирование и поддержка web-приложений.</big></p>
 			</td>
 		</tr>
