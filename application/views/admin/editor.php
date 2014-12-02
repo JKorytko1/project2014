@@ -29,9 +29,8 @@
 						<option>Группы</option>
 						<option>Профсоюз студентов</option>
 					</select>
-					<button class="btn btn-primary" href="#" style="float: right;" data-toggle="modal" data-target="#editArticle">
-						<span class="glyphicon-white glyphicon-plus"></span> Добавить
-					</button>
+					
+					<a style="float:right" href="<?=base_url();?>index.php/news/add" class="btn btn-primary"><span class="glyphicon-white glyphicon-plus"></span>Добавить</a>
 					<div class="articles" style="margin-top: 60px; border-top: 1px solid #eee;">
 						<table class="table">
 							<thead>
@@ -44,9 +43,10 @@
 								</tr>
 							</thead>
 							<tbody>
+								<?php foreach($news as $key => $new) { ?>
 								<tr>
-									<td>1</td>
-									<td><a href="#">Изменения графика учебного процесса</a></td>
+									<td><?=$new->id;?></td>
+									<td><a href="#"><?=$new->title;?></a></td>
 									<td><a href="#">Admin</a></td>
 									<td>Октябрь 21, 2014</td>
 									<td>
@@ -56,54 +56,8 @@
 										</button>
 									</td>
 								</tr>
-								<tr>
-									<td>2</td>
-									<td><a href="#">Изменения графика учебного процесса</a></td>
-									<td><a href="#">Admin</a></td>
-									<td>Октябрь 21, 2014</td>
-									<td>
-										<button class="btn btn-success btn-sm" href="#" data-toggle="modal" data-target="#editArticle" style="margin-bottom: 3px; width: 110px;">Редактировать</button>
-										<button class="btn btn-danger btn-sm" href="#" data-toggle="modal" data-target="#deleteArticle" style="margin-bottom: 3px; width: 110px;">
-											<span class="glyphicon glyphicon-trash"></span> Удалить
-										</button>
-									</td>
-								</tr>
-								<tr>
-									<td>3</td>
-									<td><a href="#">Изменения графика учебного процесса</a></td>
-									<td><a href="#">Admin</a></td>
-									<td>Октябрь 21, 2014</td>
-									<td>
-										<button class="btn btn-success btn-sm" href="#" data-toggle="modal" data-target="#editArticle" style="margin-bottom: 3px; width: 110px;">Редактировать</button>
-										<button class="btn btn-danger btn-sm" href="#" data-toggle="modal" data-target="#deleteArticle" style="margin-bottom: 3px; width: 110px;">
-											<span class="glyphicon glyphicon-trash"></span> Удалить
-										</button>
-									</td>
-								</tr>
-								<tr>
-									<td>4</td>
-									<td><a href="#">Изменения графика учебного процесса</a></td>
-									<td><a href="#">Admin</a></td>
-									<td>Октябрь 21, 2014</td>
-									<td>
-										<button class="btn btn-success btn-sm" href="#" data-toggle="modal" data-target="#editArticle" style="margin-bottom: 3px; width: 110px;">Редактировать</button>
-										<button class="btn btn-danger btn-sm" href="#" data-toggle="modal" data-target="#deleteArticle" style="margin-bottom: 3px; width: 110px;">
-											<span class="glyphicon glyphicon-trash"></span> Удалить
-										</button>
-									</td>
-								</tr>
-								<tr>
-									<td>5</td>
-									<td><a href="#">Изменения графика учебного процесса</a></td>
-									<td><a href="#">Admin</a></td>
-									<td>Октябрь 21, 2014</td>
-									<td>
-										<button class="btn btn-success btn-sm" href="#" data-toggle="modal" data-target="#editArticle" style="margin-bottom: 3px; width: 110px;">Редактировать</button>
-										<button class="btn btn-danger btn-sm" href="#" data-toggle="modal" data-target="#deleteArticle" style="margin-bottom: 3px; width: 110px;">
-											<span class="glyphicon glyphicon-trash"></span> Удалить
-										</button>
-									</td>
-								</tr>
+								<?php }?>
+								
 							</tbody>
 						</table>
 					</div> 
