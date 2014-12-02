@@ -3,21 +3,18 @@
    <div class="row" >
       <div class="col-md-10 col-md-offset-2">
           <div class="blog_title">Новости кафедры СПУ</div>
-             
-              <h2 class="blog-post-title">День открытых дверей в Политехе</h2>
-              <h4 class="blog-post-meta">Ноябрь 18, 2014 by Admin</h4>
-              <img src="<?=base_url();?>assets/images/day1.jpg" style="padding: 5px 5px 0px 0px; float:left;" width="400" height="250" />
-              <p align="justify"><big>День открытых дверей в Национальном техническом университете «Харьковский политехнический институт» 
-              пройдет 30 ноября. Как сообщили в университете, в этот день абитуриенты смогут пообщаться с руководством НТУ «ХПИ» - ректором, 
-              проректором, а также деканами факультетов, заведующими и представителями выпускающих кафедр и сотрудниками приемной 
-              комиссии, получить ответы на все вопросы и рекламно-информационную продукцию. </big></p>
-              <p><big>Когда: 30 ноября (Воскресенье)</big></p>
-              <p><big>Где: в электротехническом корпусе университета.</big></p>
-              <p><big>Старт: в 9:00. </big></p>
-              <p><big>Телефон: (057) 707-66-34.</big></p>
-           	 
+             <?php if(isset($news)){
+                      foreach ($news as $key => $item) {
+              ?>
+              <h2 class="blog-post-title"><?=$item->title;?></h2>
+              <h4 class="blog-post-meta"><?=$item->date;?> by <?=$item->author;?></h4>
+              <img src="<?=base_url();?><?=$item->image;?>" style="padding: 5px 5px 0px 0px; float:left;" width="400" height="250" />
+              <p align="justify"><big><?=$item->text;?></big></p>
+           	 <?php } 
+                }
+             ?>
 
-              <h2 class="blog-post-title">Изменения графика учебного процесса</h2>
+             <!--  <h2 class="blog-post-title">Изменения графика учебного процесса</h2>
               <h4 class="blog-post-meta">Октябрь 21, 2014 by Admin</h4>
               <img src="<?=base_url();?>assets/images/day2.jpg" style="padding: 5px 5px 0px 0px; float:left;" width="380" height="250" />
               <p align="justify"><big> В 2014–2015 учебный год внесены некоторые изменения отдельных элементов графика учебного процесса. 
@@ -54,7 +51,7 @@
           	  <img src="<?=base_url();?>assets/images/spu.jpg" style="padding: 5px 5px 0px 0px; float:left;" width="250" height="200" />
            	  <p align="justify"><big> В социальной сети "В контакте" существует активно развивающаяся группа. 
           	  В ней Вы можете найти интересную информацию и пообщаться с преподавателями кафедры.
-           	  Присоединяйтесь! Адрес: <a href="http://vk.com/official_spu" target="_blank">http://vk.com/official_spu</a> </big></p>            	
+           	  Присоединяйтесь! Адрес: <a href="http://vk.com/official_spu" target="_blank">http://vk.com/official_spu</a> </big></p>  -->           	
 	 </div>
   </div>
   			  <br><br><br>

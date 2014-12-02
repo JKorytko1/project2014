@@ -19,7 +19,7 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-              <li><a href="<?=base_url();?>index.php/news.php">Новости</a></li>
+              <li><a href="<?=base_url();?>index.php/news">Новости</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">О кафедре <b class="caret"></b></a>
                 <ul class="dropdown-menu">
