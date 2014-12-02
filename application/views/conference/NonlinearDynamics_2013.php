@@ -12,7 +12,7 @@
 
 <h1> <p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center">Четвертая Международная конференция "Нелинейная динамика - 2013"<font size="7" color="#000080"></font></p></h1>
 <h2><p style="margin-left: 300px; margin-right: 200px;" align="center"><font color="#000080"><STRONG>Уважаемые участники 4-четвертой международной конференции "ND-ХПИ-2013"</STRONG></font></p></h2>
-<div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify">Для меня большая честь и удовольствие приветствовать участников четвертого
+<div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"><big>Для меня большая честь и удовольствие приветствовать участников четвертого
 Международная конференция "Нелинейная динамика-2013", который пройдет 19-22 июня 2013 года, в Севастополе(Украина) .</div>
 <div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify">С это можно сделать вывод, что нелинейная динамика является одним из наиболее важных и
 хорошо разработанную теорию с существенным вкладом в естественной истории, инженерные, технологии и конструкции, биология, медицина, социальные науки и т.д. А
@@ -38,14 +38,14 @@
 <div style="margin-left: 300px; margin-right: 200px;" align="left">Ректор Национального технического университета</div>
 <div style="margin-left: 300px; margin-right: 200px;" align="left">"Харьковский политехнический институт"</div>
 <div style="margin-left: 300px; margin-right: 200px;" align="left">Председатель оргкомитета,</div>
-<div style="margin-left: 300px; margin-right: 200px;" align="left"><strong>Профессор Л.Л.Товажнянский</strong></div>
+<div style="margin-left: 300px; margin-right: 200px;" align="left"><strong>Профессор Л.Л.Товажнянский</big></strong></div>
 
 <h2><p style="margin-left: 300px; margin-right: 200px;" align="center"><font color="#000080"><STRONG>Цель конференции</STRONG></font></p></h2>
 
-<div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify">Цель конференции является объединение усилий ученых и инженеров, чтобы представить и обсудить последние события в различных задачах нелинейной динамики.</div>
+<div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"><big>Цель конференции является объединение усилий ученых и инженеров, чтобы представить и обсудить последние события в различных задачах нелинейной динамики.</big></div>
 <h2><p style="margin-left: 300px; margin-right: 200px;" align="center"><font color="#000080"><STRONG>Научный комитет</STRONG></font></p></h2>
 
-<div style="margin-left: 300px; margin-right: 200px;"align="justify">
+<div style="margin-left: 300px; margin-right: 200px;"align="justify"><big>
 	<ol>
 		<li>Профессор Алтенбач Х. (Галле, Германия)</li>
 		<li>Профессор Амабили М. (Монреаль, Канада)</li>
@@ -85,10 +85,10 @@
 		<li>Профессор Виерсигроч M. (Абердин, Великобритания) - сопредседатель</li>
 		<li>Профессор Закржевский М.В. (Рига, Латвия)</li>
 		<li>Академик РАН, профессор Журавлев В. Ф.. (Москва, Россия)</li>
-	</ol>
+	</ol></big>
 </div>
 <h2><p style="margin-left: 300px; margin-right: 200px;" align="center"><font color="#000080"><STRONG>Научный комитет по мини-симпозиум «ползучести и пластичности при циклических загрузках»</STRONG></font></p></h2>
-<div style="margin-left: 300px; margin-right: 200px;"align="justify">
+<div style="margin-left: 300px; margin-right: 200px;"align="justify"><big>
 	<ol>
 		<li>Профессор Алтенбач Х. (Галле, Германия) - сопредседатель</li>
 		<li>Профессор Бородий М. (Киев, Украина)</li>
@@ -100,10 +100,10 @@
 		<li>Профессор Шукаев С. (Киев, Украина)</li>
 		<li>Профессор Спилиопоулус К. (Афины, Греция)</li>
 		<li>Профессор Ясный П. (Тернополь, Украина)</li>
-	</ol>
+	</ol></big>
 </div>
 <h2><p style="margin-left: 300px; margin-right: 200px;" align="center"><font color="#000080"><STRONG>Организационный комитет</STRONG></font></p></h2>
-<div style="margin-left: 300px; margin-right: 200px;"align="justify">
+<div style="margin-left: 300px; margin-right: 200px;"align="justify"><big>
 	<ol>
 		<li>Профессор Товажнянский Л.Л., ректор НТУ "ХПИ" - председатель</li>
 		<li>Профессор Бреславский Д.В. - Вице-председатель</li>
@@ -113,5 +113,5 @@
 		<li>Доктор Ларин А.А. - секретарь</li>
 		<li>Профессор Марченко А.П.</li>
 		<li>Профессор Морачковский О.К.</li>
-	</ol>
+	</ol></big>
 </div>
