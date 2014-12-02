@@ -14,7 +14,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-10 col-md-offset-2">
-          <h1 align="center" class="blog-post-title">Первичная профсоюзная организация студентов НТУ «ХПИ»</h1>
+          <h1 align="center" class="blog-post-title" style="margin-top: 40px;">Первичная профсоюзная организация студентов НТУ «ХПИ»</h1>
           
 
           <div style="display: block; text-align: center; padding-bottom: 25px; padding-top: 25px;">
@@ -38,7 +38,7 @@
 
 
               </ul>
-              <p>Узнай больше о деятельности профсоюза студентов на сайте <a href="http://www.profkom-khpi.org" target="_blank"> http://www.profkom-khpi.org </a></p>
+              <p>Узнай больше о деятельности профсоюза студентов на сайте <a href="http://www.profkom-khpi.org" target="_blank"> http://www.profkom-khpi.org </a></p><br>
        
 
        

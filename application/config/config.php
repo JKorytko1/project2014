@@ -13,9 +13,11 @@
 | If this is not set then CodeIgniter will guess the protocol, domain and
 | path to your installation.
 |
-*/ //PLEASE BE CAREFUL WHEN TO COMMIT IT !!!
- $config['base_url'] = 'http://localhost/project20141/';
-//$config['base_url']	= 'http://classes.aasiutin.com/';
+
+*/ //PLEASE BE CAREFUL WHEN COMMIT IT !!!
+ //$config['base_url'] = 'http://localhost/project2014/';
+$config['base_url']	= 'http://classes.aasiutin.com/';
+
 
 /*
 |--------------------------------------------------------------------------
@@ -225,7 +227,11 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
+<<<<<<< HEAD
 $config['encryption_key'] = 'scrypt';
+=======
+$config['encryption_key'] = '';
+>>>>>>> b3a8e90fc6b0fe7ea7671f6637aa8601acb79761
 
 /*
 |--------------------------------------------------------------------------
