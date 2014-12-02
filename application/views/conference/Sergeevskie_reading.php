@@ -10,20 +10,20 @@
  </script>
 
 <h1> <p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center"><font size="7" color="#000080">Сергеевские чтения</font></p></h1>
-<p align="justify"> <div  style="margin-left: 300px; margin-right: 200px;" align="center"><strong>Посвящается 100-летию со дня рождения Академика В.Г.Сергеева</div>
- <div align="center">и 50-летию создания в ХПИ специальности «Динамика полета и управление» </strong></div> <div align="center"> 11-12 сентября 2014 г.</div></p>
+<p align="justify"> <div  style="margin-left: 300px; margin-right: 200px;" align="center"><big><strong>Посвящается 100-летию со дня рождения Академика В.Г.Сергеева</div>
+ <div align="center">и 50-летию создания в ХПИ специальности «Динамика полета и управление» </strong></div> <div align="center"> 11-12 сентября 2014 г.</big></div></p>
 <h2><p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center"> <font color="#000080"><STRONG> АКАДЕМИК ВЛАДИМИР ГРИГОРЬЕВИЧ СЕРГЕЕВ – ГЛАВНЫЙ КОНСТРУКТОР</STRONG></font></p></h2>
-<p ><div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"> <img src="<?=base_url();?>assets/images/sergeev.png" alt="" align="left"  height=150 hspace=20>В 2014 году отмечается 100-летие со дня рождения
+<p ><div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"> <img src="<?=base_url();?>assets/images/sergeev.png" alt="" align="left"  height=150 hspace=20><big>В 2014 году отмечается 100-летие со дня рождения
 выдающегося Главного конструктора и руководителя
 работ по созданию систем управления межконтинентальных баллистических ракет, ракет-носителей и космических аппаратов, академика, почетного харьковчанина Владимира Григорьевича Сергеева. Сергеев В.Г. в течение 26 лет являлся руководителем и главным конструктором предприятия, которое в настоящее время называется – Публичное акционерное общество (ПАО)
 «Хартрон».</div>
 <div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify">Научно-техническая конференция «Сергеевские чтения» является данью
 памяти о выдающемся человеке, о людях, которые работали под его руководством и создавали лучшие образцы систем управления объектов ракетно-космической техники, дела которых составляют славу и гордость города
-Харькова.</div></p>
+Харькова.</big></div></p>
 
 <h2><p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center"> <font color="#000080"><STRONG> ПЯТЬДЕСЯТ ЛЕТ РАЗВИТИЯ СПЕЦИАЛЬНОСТИ<br>
 «ДИНАМИКА ПОЛЕТА И УПРАВЛЕНИЕ» В ХПИ</STRONG></font></p></h2>
-<div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"><img src="<?=base_url();?>assets/images/spu.png" alt="" hspace=20 align="left">Пятьдесят лет назад, в 1964 году, по инициативе выдающихся ученых, академика В.Г. Сергеева и профессора
+<div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"><img src="<?=base_url();?>assets/images/spu.png" alt="" hspace=20 align="left"><big>Пятьдесят лет назад, в 1964 году, по инициативе выдающихся ученых, академика В.Г. Сергеева и профессора
 нашего института А.В. Дабагяна, на инженерно-физическом факультете ХПИ была открыта новая, «ракетно-космическая», специальность «Динамика полета и
 управление». Уже в первые годы своего существования,
 благодаря тесному сотрудничеству с базовым предприятием, имеющем сегодня название «Хартрон», профессорско-преподавательскому составу кафедры
@@ -36,10 +36,10 @@
 этому способствовать!) многим из них сформулировать новые направления
 своей деятельности и достичь в них весомых успехов. Коллектив кафедры
 систем и процессов управления, сохраняя свои лучшие достижения и традиции,
-прилагает все силы для продолжения научных исследований и совершенствования специальности.</div>
+прилагает все силы для продолжения научных исследований и совершенствования специальности.</big></div>
 
 <h2><p style="margin-left: 300px; margin-right: 200px;" align="center"><font color="#000080"><STRONG> ТЕМАТИКА КОНФЕРЕНЦИИ</STRONG></font></p></h2>
-<div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify">1. Аэрокосмическая отрасль Украины:
+<div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"><big>1. Аэрокосмическая отрасль Украины:
 история, достижения, актуальные задачи и
 тенденции развития, связь с высшей школой.</div>
 <div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify">2. Теоретические и практические аспекты создания и эксплуатации систем управления аэрокосмическими объектами.</div>
@@ -47,10 +47,10 @@
 инерциально-спутниковые навигационные
 системы: элементная база, математические
 модели и алгоритмическое обеспечение,
-методы повышения точности.</div>
+методы повышения точности.</big></div>
 
 <h2><p style="margin-left: 300px; margin-right: 200px;" align="center"><font color="#000080"><STRONG> ПРОГРАММНЫЙ КОМИТЕТ:</STRONG></font></p></h2>
-<div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"><strong>Е.Е. АЛЕКСАНДРОВ</strong>, д.т.н., проф. (НТУ «ХПИ», Харьков); <strong>Ю.М. АНДРЕЕВ</strong>,
+<div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"><strong><big>Е.Е. АЛЕКСАНДРОВ</strong>, д.т.н., проф. (НТУ «ХПИ», Харьков); <strong>Ю.М. АНДРЕЕВ</strong>,
 д.т.н. (НТУ «ХПИ», Харьков); <strong>Д.В. БРЕСЛАВСКИЙ</strong>, д.т.н., проф. (НТУ
 «ХПИ», Харьков); <strong>В.В. ВОЛОСОВ</strong>, д.т.н. (Институт космических исследований
 НАНУ-НКАУ, Киев); <strong>В.З. ГРИЩАК</strong>, д.т.н., проф. (ЗНУ, Запорожье);
@@ -68,19 +68,19 @@
 ков); <strong>В.Б. УСПЕНСКИЙ</strong>, д.т.н. (НТУ «ХПИ», Харьков) – сопредседатель;
 <strong>В.С. ХОРОШИЛОВ</strong>, д.т.н., проф. (ГП «КБ «Южное», Днепропетровск);
 <strong>В.И. ЧУМАЧЕНКО</strong>, к.т.н., директор по научной работе (НПП «ХАРТРОН-
-АРКОС», Харьков).</div>
+АРКОС», Харьков).</big></div>
 
 <h2><p style="margin-left: 300px; margin-right: 200px;" align="center"><font color="#000080"><STRONG> ОРГАНИЗАЦИОННЫЙ КОМИТЕТ:</STRONG></font></p></h2>
-<div style="margin-left: 300px; margin-right: 200px;"><strong>Председатель: Л.Л.ТОВАЖНЯНСКИЙ</strong>, д.т.н., проф., ректор НТУ «ХПИ».</div>
+<div style="margin-left: 300px; margin-right: 200px;"><strong><big>Председатель: Л.Л.ТОВАЖНЯНСКИЙ</strong>, д.т.н., проф., ректор НТУ «ХПИ».</div>
 <div style="margin-left: 300px; margin-right: 200px;"><strong>Заместители председателя: А.П. МАРЧЕНКО</strong>, д.т.н., проф., проректор НТУ
 «ХПИ»; <strong>Д.В. БРЕСЛАВСКИЙ</strong>, д.т.н., проф., декан инженерно-физического факультета НТУ «ХПИ».</div>
 <div style="margin-left: 300px; margin-right: 200px;"><strong>Члены оргкомитета: Ю.М. АНДРЕЕВ</strong>, д.т.н., проф.; <strong>Ю.А. ПЛАКСИЙ</strong>, к.т.н.,
 проф., <strong>В.Б. УСПЕНСКИЙ</strong>, д.т.н., проф..</div>
-<div style="margin-left: 300px; margin-right: 200px;"><strong>Секретариат: О.С. ГАЛАС</strong>, к.т.н., м.н.с; <strong>О.А. ТАТАРИНОВА</strong>, к.т.н., доц.</div>
+<div style="margin-left: 300px; margin-right: 200px;"><strong>Секретариат: О.С. ГАЛАС</strong>, к.т.н., м.н.с; <strong>О.А. ТАТАРИНОВА</strong>, к.т.н., доц.</big></div>
 
 
 <h2><p style="margin-left: 300px; margin-right: 200px;" align="center"><font color="#000080"><STRONG> ПРОГРАММА</STRONG></font></p></h2>
-<div style="margin-left: 300px; margin-right: 200px;">
+<div style="margin-left: 300px; margin-right: 200px;"><big>
 	<table cols="3" border="1">
 		<tr>
 			<th></th>
@@ -317,5 +317,5 @@
 			<th><strong>18.00</strong></th>
 		</tr>
 
-	</table>
+	</table></big>
 </div>
