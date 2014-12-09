@@ -14,7 +14,7 @@
                 }
              ?>
 
-             <!--  <h2 class="blog-post-title">Изменения графика учебного процесса</h2>
+              <h2 class="blog-post-title">Изменения графика учебного процесса</h2>
               <h4 class="blog-post-meta">Октябрь 21, 2014 by Admin</h4>
               <img src="<?=base_url();?>assets/images/day2.jpg" style="padding: 5px 5px 0px 0px; float:left;" width="380" height="250" />
               <p align="justify"><big> В 2014–2015 учебный год внесены некоторые изменения отдельных элементов графика учебного процесса. 
@@ -51,7 +51,7 @@
           	  <img src="<?=base_url();?>assets/images/spu.jpg" style="padding: 5px 5px 0px 0px; float:left;" width="250" height="200" />
            	  <p align="justify"><big> В социальной сети "В контакте" существует активно развивающаяся группа. 
           	  В ней Вы можете найти интересную информацию и пообщаться с преподавателями кафедры.
-           	  Присоединяйтесь! Адрес: <a href="http://vk.com/official_spu" target="_blank">http://vk.com/official_spu</a> </big></p>  -->           	
+           	  Присоединяйтесь! Адрес: <a href="http://vk.com/official_spu" target="_blank">http://vk.com/official_spu</a> </big></p>           	
 	 </div>
   </div>
   			  <br><br><br>
