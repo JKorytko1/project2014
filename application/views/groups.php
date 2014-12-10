@@ -7,7 +7,7 @@
 				
 				<p align="justify" ><big>Группа И-24А<br></p>
 				<p align="justify" >Куратор: Ольшанский Станислав Васильевич<br></p>
-				<p align="justify" >Староста: </big><br></p>
+				<p align="justify" >Староста: Соколенко Татьяна</big><br></p>
 				<head>
 					<title>Группы</title>
 				</head>
@@ -33,7 +33,7 @@
 </tr>
 <tr>
 <td style="background-color:#ffffcc">10:25 </td>
-<td>Физ.воспит. </td>
+<td>ФВ </td>
 <td> </td>
 <td></td>
 <td></td>
@@ -42,7 +42,7 @@
 <tr>
 <td style="background-color:#ffffcc">12:35 </td>
 <td>Ист.Укр.707 У1</td>
-<td>Физ.воспит.</td>
+<td>ФВ</td>
 <td></td>
 <td> </td>
 <td>Прог.заб.обч.сист. каф.СПУ/ </td>
@@ -103,7 +103,7 @@
 </tr>
 <tr>
 <td style="background-color:#ffffcc">10:25 </td>
-<td>Физ.воспит</td>
+<td>ФВ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -122,7 +122,7 @@
 <td>Алг. и геом.307 У2<p>Ист.Укр.306 У1</p></td>
 <td>Матем.анализ 407 У1</td>
 <td>/Орг.обр.инф. каф.СПУ</td>
-<td>Физ.воспит.</td>
+<td>ФВ</td>
 <td>Алг. и геом. 401 У2</td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td>Физ.воспит.</td>
+<td>ФВ</td>
 <td>Диск.матем. каф.</td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@
 <tr>
 <td style="background-color:#ffffcc">14:30</td>
 <td>Диск.матем. каф.СПУ</td>
-<td>Физ.воспит</td>
+<td>ФВ</td>
 <td>Структ.данных 13 лаб. <p>Психология 1404 У1</p></td>
 <td>Диф.ур. 401 У2</td>
 <td>Диф.ур.311 У2</td>
@@ -217,11 +217,10 @@
 				<head>
 					<title></title>
 				</head>
-							<body>
+				<body>
 		
 <table class="table table-striped" align="center" border="1" cellspacing="0" cellpadding="5" width="55%" height="100"> 
 <tr>
-
 <td></td>
 <td style="background-color:#ffffcc"><big>Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
@@ -242,13 +241,13 @@
 <td></td>
 <td></td>
 <td></td>
-<td>Физ.воспит</td>
+<td>ФВ</td>
 <td> </td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">12:35 </td>
 <td>Пн</td>
-<td>Физ.воспит.</td>
+<td>ФВ</td>
 <td></td>
 <td>Диф.ур. 401 У2</td>
 <td>Диф.ур. 502 У1</td>
@@ -309,9 +308,9 @@
 <td style="background-color:#ffffcc">10:25 </td>
 <td>Теор. та аналит.мех. каф.</td>
 <td> </td>
-<td>/теор.рук. каф.</td>
-<td>Физ.воспит.</td>
-<td> Физ.воспит.</td>
+<td>/Теор.рук. каф.</td>
+<td>ФВ</td>
+<td>ФВ</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">12:35 </td>
@@ -369,16 +368,16 @@
 <td style="background-color:#ffffcc">8:30</td>
 <td></td>
 <td></td>
-<td>/теор.упр. лаб.</td>
+<td>/Теор.упр. лаб.</td>
 <td></td>
 <td>Бази данных каф. </td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">10:25 </td>
-<td>Физ.воспит.</td>
+<td>ФВ</td>
 <td></td>
 <td>Мет.оптим. каф.</td>
-<td>Физ.воспит.</td>
+<td>ФВ</td>
 <td>Опер.сист. лаб.</td>
 </tr>
 <tr>
