@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row">
       	<div class="col-md-10 col-md-offset-2">
-      	<h1>Расписание занятий студентов кафедры</h1>
+      	<h1><center>Расписание занятий студентов кафедры</center></h1>
 			<br></br>			
 				
 				<p align="justify" ><big>Группа И-24А<br></p>
@@ -135,7 +135,7 @@
 </tr>
 <tr>
 <td style="background-color:#ffffcc">18:10 </td>
-<td>Пн </td>
+<td></td>
 <td>Мат.анализ 408 У2</td>
 <td>Орг.обр.инф. лаб.</td>
 <td>/Программир. каф.СПУ</td>
@@ -145,7 +145,7 @@
 </body>
 				<p align="justify" ><big>Группа И-23А<br></p>
 				<p align="justify" >Куратор: Татаринова Оксана Андреевна<br></p>
-				<p align="justify" >Староста: </big><br></p>
+				<p align="justify" >Староста: Чернова Юлия</big><br></p>
 				<head>
 					<title></title>
 				</head>
@@ -213,7 +213,7 @@
 </body>
 				<p align="justify" ><big>Группа И-23Б<br></p>
 				<p align="justify" >Куратор: Хацько Наталья Евгеньевна<br></p>
-				<p align="justify" >Староста: </big><br></p>
+				<p align="justify" >Староста: Костенко Владислав</big><br></p>
 				<head>
 					<title></title>
 				</head>
@@ -281,7 +281,7 @@
 </body>
 				<p align="justify" ><big>Группа И-22А<br></p>
 				<p align="justify" >Куратор: Гризун Мария Николаевна<br></p>
-				<p align="justify" >Староста: </big><br></p>
+				<p align="justify" >Староста: Слепинчук Ирина</big><br></p>
 				<head>
 					<title></title>
 				</head>
@@ -349,7 +349,7 @@
 </body>
 				<p align="justify" ><big>Группа И-22Б<br></p>
 				<p align="justify" >Куратор: Наумов Иван Владимирович <br></p>
-				<p align="justify" >Староста: </big><br></p>
+				<p align="justify" >Староста: Кириченко Ирина</big><br></p>
 				<head>
 					<title></title>
 				</head>
@@ -531,7 +531,7 @@
 </body>
 				<p align="justify" ><big>Группа И-20А<br></p>
 				<p align="justify" >Куратор: Плаксий Юрий Андреевич<br></p>
-				<p align="justify" >Староста: </big><br></p>
+				<p align="justify" >Староста: Чешкои Ксения</big><br></p>
 				<head>
 					<title>Группы</title>
 				</head>
@@ -599,7 +599,7 @@
 </body>
 				<p align="justify" ><big>Группа И-20Бм,Бс<br></p>
 				<p align="justify" >Куратор: Плаксий Юрий Андреевич<br></p>
-				<p align="justify" >Староста: Вокалюк Яков, Дачко Ксения</big><br></p>
+				<p align="justify" >Староста: Лемишенко Олег</big><br></p>
 				<title>Группы</title>
 				</head>
 				<body>
@@ -701,9 +701,9 @@
 </tr>
 </table> 
 </body>
-				<p align="justify" ><big>Группа И-29Ам, Ас<br></p>
+				<p align="justify" ><big>Группа И-29А<br></p>
 				<p align="justify" >Куратор: Плаксий Юрий Андреевич<br></p>
-				<p align="justify" >Староста: </big><br></p>
+				
 							<head>
 					<title>Группы</title>
 				</head>
@@ -758,18 +758,11 @@
 <td></td>
 <td></td>
 </tr>
-<td style="background-color:#ffffcc">18:10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table> 
 </body>
 				<p align="justify" ><big>Группа И-29Б<br></p>
 				<p align="justify" >Куратор: Плаксий Юрий Андреевич<br></p>
-				<p align="justify" >Староста: </big><br></p>
+				
 							<head>
 					<title>Группы</title>
 				</head>
@@ -825,60 +818,6 @@
 <td></td>
 <td></td>
 </tr>
-</table> 
-</body>
-				<p align="justify" ><big>Группа И-29В<br></p>
-				<p align="justify" >Куратор: Плаксий Юрий Андреевич<br></p>
-				<p align="justify" >Староста: </big><br></p>
-							<head>
-					<title>Группы</title>
-				</head>
-				<body>
-		
-<table class="table table-striped" align="center" border="1" cellspacing="0" cellpadding="5" width="55%" height="100"> 
-<tr>
-
-<td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
-<td style="background-color:#ffffcc">Вторник</td>
-<td style="background-color:#ffffcc">Среда</td>
-<td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница</big></td>
-</tr>
-<tr>
-<td style="background-color:#ffffcc">8:30</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td> </td>
-</tr>
-<tr>
-<td style="background-color:#ffffcc">10:25 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td> </td>
-</tr>
-<tr>
-<td style="background-color:#ffffcc">12:35 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td> </td>
-</tr>
-<tr>
-<td style="background-color:#ffffcc">14:30</td>
-<td></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table> 
-</body>
 </table> 
 </body>
 			
