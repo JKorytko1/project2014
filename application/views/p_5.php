@@ -1,8 +1,8 @@
- <div class="container">
+﻿<div class="container"style="margin-bottom: 20px;">
     <div class="row">
       	<div class="col-md-10 col-md-offset-2">
       		
-	      		 <center><ins><h1>Разработка программы для анализа и прогноза скорости и направления ветра</h1></ins><br></center>				 
+			<center><h3><a href="p_1.php" target="_self">Разработка программы для анализа и прогноза скорости и направления ветра</a></h3><br></center>				 
 							
 				<big><p align="justify" style="text-indent:25px">
 				Создана программа оценки воздушных потоков в данной местности на  основании данных синоптических сайтов. Данная задача решалась следующим образом:<br></p>
