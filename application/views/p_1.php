@@ -1,8 +1,10 @@
-<div class="container">
+﻿	<div class="container"style="margin-bottom: 20px;">
     <div class="row">
       	<div class="col-md-10 col-md-offset-2">
+		
+		<center><h3><a href="p_1.php" target="_self">Ветроэнергетическая установка (ВЭУ)</a></h3><br></center>
       		
-	      		 <center><ins><h1>Ветроэнергетическая установка (ВЭУ)</h1></ins><br></center>
+	      		 
 				<p align="justify" style="text-indent:25px">
 				<p><img src="<?=base_url();?>assets/images/veu1.jpg" width="400" height="420" style="float:left; margin-right: 15px;"></p>
 				<big><p align="justify" style="text-indent:25px">Во время работы проекта была создана концепция, документ оценки рисков, установлены характеристики ВЭУ, определено местоположение;
@@ -32,3 +34,8 @@
 </div>
 </div>
 </div>
+  </div>
+</div>
+    
+
+
