@@ -17,11 +17,11 @@
 <tr>
 
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница </big></td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -85,13 +85,12 @@
 		
 <table class="table table-striped" align="center" border="1" cellspacing="0" cellpadding="5" width="55%" height="100"> 
 <tr>
-
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница</big></td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -155,11 +154,11 @@
 <tr>
 
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница</big></td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -222,11 +221,11 @@
 <table class="table table-striped" align="center" border="1" cellspacing="0" cellpadding="5" width="55%" height="100"> 
 <tr>
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница</big></td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -290,11 +289,11 @@
 <tr>
 
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница</big></td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -358,11 +357,11 @@
 <tr>
 
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница </big></td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -426,11 +425,11 @@
 <tr>
 
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница</big></td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -476,7 +475,7 @@
 </body>
 
 
-<p align="justify" ><big>Группа И-21Б<br></p>
+				<p align="justify" ><big>Группа И-21Б<br></p>
 				<p align="justify" >Куратор: Асютин Алексей Дмитриевич<br></p>
 				<p align="justify" >Староста: Шевченко Александр</big> <br></p>
 				<head>
@@ -488,11 +487,11 @@
 <tr>
 
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница</big></td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -540,11 +539,11 @@
 <tr>
 
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница </big></td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -596,9 +595,10 @@
 </tr>
 </table> 
 </body>
-				<p align="justify" ><big>Группа И-20Бм,Бс<br></p>
+				<p align="justify" >Группа И-20Б<br></p>
 				<p align="justify" >Куратор: Плаксий Юрий Андреевич<br></p>
-				<p align="justify" >Староста: Лемишенко Олег</big><br></p>
+				<p align="justify" >Староста: Лемишенко Олег<br></p>
+				<head>
 				<title>Группы</title>
 				</head>
 				<body>
@@ -607,11 +607,11 @@
 <tr>
 
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница </big></td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -647,10 +647,10 @@
 </tr>
 </table> 
 </body>
-				<p align="justify" ><big>Группа И-20Вc<br></p>
+				<p align="justify" >Группа И-20Вc<br></p>
 				<p align="justify" >Куратор: Плаксий Юрий Андреевич<br></p>
-				<p align="justify" >Староста: Лысан Ангелина</big><br></p>
-							<head>
+				<p align="justify" >Староста: Лысан Ангелина<br></p>
+				<head>
 					<title>Группы</title>
 				</head>
 				<body>
@@ -659,11 +659,11 @@
 <tr>
 
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница</big> </td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -701,9 +701,9 @@
 </table> 
 </body>
 				<p align="justify" ><big>Группа И-29А<br></p>
-				<p align="justify" >Куратор: Плаксий Юрий Андреевич<br></p>
+				<p align="justify" >Куратор: Плаксий Юрий Андреевич</big><br></p>
 				
-							<head>
+				<head>
 					<title>Группы</title>
 				</head>
 				<body>
@@ -712,11 +712,11 @@
 <tr>
 
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница</big> </td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
@@ -760,9 +760,9 @@
 </table> 
 </body>
 				<p align="justify" ><big>Группа И-29Б<br></p>
-				<p align="justify" >Куратор: Плаксий Юрий Андреевич<br></p>
+				<p align="justify" >Куратор: Плаксий Юрий Андреевич</big><br></p>
 				
-							<head>
+				<head>
 					<title>Группы</title>
 				</head>
 				<body>
@@ -771,11 +771,11 @@
 <tr>
 
 <td></td>
-<td style="background-color:#ffffcc"><big>Понедельник</td>
+<td style="background-color:#ffffcc">Понедельник</td>
 <td style="background-color:#ffffcc">Вторник</td>
 <td style="background-color:#ffffcc">Среда</td>
 <td style="background-color:#ffffcc">Четверг</td>
-<td style="background-color:#ffffcc">Пятница </big></td>
+<td style="background-color:#ffffcc">Пятница</td>
 </tr>
 <tr>
 <td style="background-color:#ffffcc">8:30</td>
