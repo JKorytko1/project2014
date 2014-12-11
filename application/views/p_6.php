@@ -1,8 +1,10 @@
- <div class="container">
+﻿<div class="container"style="margin-bottom: 20px;">
     <div class="row">
       	<div class="col-md-10 col-md-offset-2">
       		
-	      		 <center><ins><h1>Навигационная система с трансляцией телеметрии</h1></ins><br></center>
+			 <center><h3><a href="p_1.php" target="_self">Навигационная система с трансляцией телеметрии</a></h3><br></center>
+			
+	      		
 				<p align="justify" style="text-indent:25px">
 				<p><img src="<?=base_url();?>assets/images/ns1.jpg" width="400" height="280" style="float:left; margin-right: 15px;"></p>
 				<big><p align="justify" style="text-indent:25px">Разработана бортовая система, обеспечивающая управление летательным аппаратом и трансляцию телеметрии. Телеметрическая информация дублируется на стороннем носителе.<br></p>
