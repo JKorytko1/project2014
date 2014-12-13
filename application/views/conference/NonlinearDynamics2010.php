@@ -9,8 +9,8 @@
 	}
  </script>
 
-<h1> <p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center"><font size="7" color="#000080">ТРЕТЬЯ МЕЖДУНАРОДНАЯ КОНФЕРЕНЦИЯ "НЕЛИНЕЙНАЯ ДИНАМИКА - 2010" </font></p></h1>
-<h2><p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center"> <font color="#000080"><STRONG> Окончательная информация</STRONG></font></p></h2>
+<h3> <p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center"><a href="" target="_self">ТРЕТЬЯ МЕЖДУНАРОДНАЯ КОНФЕРЕНЦИЯ "НЕЛИНЕЙНАЯ ДИНАМИКА - 2010" </a></p></h3>
+<h4><p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center"> <a href="" target="_self"><STRONG> Окончательная информация</STRONG></a></p></h4>
 <div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"><big> 3 МЕЖДУНАРОДНАЯ КОНФЕРЕНЦИЯ "НЕЛИНЕЙНАЯ ДИНАМИКА - 2010" прошла в 
 	Национальном техническом университете «Харьковский политехнический институт" (Харьков, Украина) 21-24 сентября, 2010 года. Конференция была посвящена 
 	125-летию Харьковского национального технического университета. Всего 91 ученых из Армении, Канады, Германии, Греции, Италии, Японии, Латвии, Польши, России,
@@ -42,7 +42,7 @@
 	 пластичности при циклической нагрузке.</div>
 <div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify">Участники конференции подтвердили идею провести следующую конференцию в
  будущем, возможно, три года спустя.</big></div>
-<h2><p  style="margin-left: 300px; margin-right: 200px;" ALIGN="left"> <font color="#000080"><STRONG> Участники конференции</STRONG></font></big></p></h2>
+<h4><p  style="margin-left: 300px; margin-right: 200px;" ALIGN="left"> <a href="" target="_self"><STRONG> Участники конференции</STRONG></a></big></p></h4>
 <div style="margin-left: 300px; margin-right: 200px;" align="justify"><big>
 	<ol>
 		<li>Х.Алтенбач (Галле, Германия)</li>
@@ -139,7 +139,7 @@
 	</ol></big>
 
 </div>
-<h2><p  style="margin-left: 300px; margin-right: 200px;" ALIGN="left"> <font color="#000080"><STRONG> Благодарность</STRONG></font></p></h2>
+<h4><p  style="margin-left: 300px; margin-right: 200px;" ALIGN="left"> <a href="" target="_self"><STRONG> Благодарность</STRONG></a></p></h4>
 
 <div style="margin-left: 300px; margin-right: 200px;" ALIGN="left"><strong><big>Нашу искреннюю благодарность</strong></div>
 <div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify">Ректор Национального технического университета "Харьковский 
