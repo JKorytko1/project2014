@@ -5,16 +5,16 @@
 
       <ul class="nav nav-sidebar">
         <li><h4>Научные и методические материалы</h4></li>
-        <li><a href="books.php">Книги, методические пособия</a></li>
-        <li><a href="projects.php">Студенческие проекты</a></li>
-        <li><a href="articles.php">Статьи</a></li>
+        <li><a href="<?=base_url();?>index.php/books.php"Книги, методические пособия</a></li>
+        <li><a href="<?=base_url();?>index.php/projects.php">Студенческие проекты</a></li>
+        <li><a href="<?=base_url();?>index.php/articles.php">Статьи</a></li>
       </ul>
 
       <ul class="nav nav-sidebar">
         <li><h4>Студенту</h4></li>
-        <li><a href="groups.php">Группы</a></li>
-        <li><a href="gallery.php">Фотогалерея</a></li>
-        <li><a href="profkom.php">Профсоюз студентов</a></li>
+        <li><a href="<?=base_url();?>index.php/groups.php">Группы</a></li>
+        <li><a href="<?=base_url();?>index.php/gallery.php">Фотогалерея</a></li>
+        <li><a href="<?=base_url();?>index.php/profkom.php">Профсоюз студентов</a></li>
       </ul>
 
       <ul class="nav nav-sidebar">
@@ -25,5 +25,6 @@
       </ul>
 
     </div>
-	</div>
+    
+  </div>
 </div>
