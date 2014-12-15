@@ -41,9 +41,16 @@
 $route['default_controller'] = "main";
 $route['conference/(:any).php'] = 'main/conf/$1';
 $route['admin'] = 'admin/index';
+
+$route['ru/news'] = "main/page_lang/news";
+$route['ua/news'] = "main/page_lang/news";
+$route['ru/(:any).php'] = "main/page_lang/$1";
+$route['ua/(:any).php'] = "main/page_lang/$1";
+
 $route['admin/(:any).php'] = 'admin/items/$1';
 $route['(:any).php'] = 'main/item/$1';
 $route['404_override'] = '';
+
 
 
 /* End of file routes.php */

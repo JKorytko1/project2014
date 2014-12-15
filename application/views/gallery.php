@@ -11,13 +11,13 @@
 
         <div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin-bottom: 35px;">
           <!-- Indicators -->
-          <ol class="carousel-indicators">
+          <!-- <ol class="carousel-indicators">
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1" class=""></li>
             <li data-target="#myCarousel" data-slide-to="2" class=""></li>
             <li data-target="#myCarousel" data-slide-to="3" class=""></li>
             <li data-target="#myCarousel" data-slide-to="4" class=""></li>
-          </ol>
+          </ol> -->
 
           <div class="carousel-inner" role="listbox">
             <div class="item active">
@@ -61,7 +61,7 @@
                     <img class="img-responsive" src="<?=base_url();?>assets/photos/DF.jpg" alt="" style="width: 260px; height: 175px;">
                 </a>
                 <h3>
-                    <a href="https://vk.com/album-73612507_204466707">День факультета 2014. Инженерно-физический отпраздновал 84 года!</a>
+                    <a href="https://vk.com/album-73612507_204466707" target="_blank">День факультета 2014. Инженерно-физический отпраздновал 84 года!</a>
                 </h3>
                 <p>17 апреля состоялся День И факультета. На празднике выступили творческие коллективы Дворца студентов НТУ "ХПИ" инструментальный folk-band "Отакої", ансамбль народного танца "Катюша", Sunday Morning Band. В составе этих коллективов выступают студенты и аспиранты инженерно-физического факультета.</p>
             </div>
@@ -70,7 +70,7 @@
                     <img class="img-responsive" src="<?=base_url();?>assets/photos/QF.jpg" alt="" style="width: 260px; height: 175px;">
                 </a>
                 <h3>
-                    <a href="https://vk.com/album-73612507_204467040">Quest-factor: история повторяется</a>
+                    <a href="https://vk.com/album-73612507_204467040" target="_blank">Quest-factor: история повторяется</a>
                 </h3>
                 <p>Вот и он, новый учебный год! В Политехе много новых озадаченных лиц. Это всё первокурсники. Бегают, метушатся, не знают куда идти, что и как делать? Новые преподаватели, предметы, учебники, уйма материала и новых требований... И чтобы внести хоть какую-то ясность и определенность в студенческую жизнь Профбюро студентов И факультета...</p>
             </div>
@@ -79,7 +79,7 @@
                     <img class="img-responsive" src="<?=base_url();?>assets/photos/S4.jpg" alt="" style="width: 260px; height: 175px;">
                 </a>
                 <h3>
-                    <a href="https://vk.com/album-73612507_203968708">Научно-техническая конференция "Сергеевские чтения"</a>
+                    <a href="https://vk.com/album-73612507_203968708" target="_blank">Научно-техническая конференция "Сергеевские чтения"</a>
                 </h3>
                 <p>Научно-техническая конференция "Сергеевские чтения" (12 сентября 2014г.), посвященная 100-летию со дня рождения академика В.Г. Сергеева и 50-летию создания специальности "Динамика и управление".</p>
             </div>
