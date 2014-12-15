@@ -28,7 +28,6 @@
 		}
 		 public function login() {
         if (!$this->auth_lib->logged_in()) {
-        	echo "hello";
         	$this->load->view("admin/login");
             //$this->mysmarty->change_views_dir(APPPATH . 'modules/admin/views');
             //$this->mysmarty->display('login.tpl');

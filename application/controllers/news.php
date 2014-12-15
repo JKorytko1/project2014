@@ -41,12 +41,21 @@
 			$this->display("admin/add");
 		}
 
-		public function edit(){
+		public function edit($id = false){
+			
+			if($submit = $this->input->post()){
+				$submit['date'] = $this->news_model->get(intval($id))[0]->date;
+				$this->news_model->update($id,$submit);
+				redirect(base_url('index.php/news/list_news'), 'location', 301);
+			}
+			$data['news'] = $this->news_model->get(intval($id));
+			$this->display("admin/add",$data);
 			
 		}
 
-		public function delete(){
-			
+		public function delete($id){
+			$this->news_model->delete($id);
+			redirect(base_url('index.php/news/list_news'), 'location', 301);
 		}
 
 

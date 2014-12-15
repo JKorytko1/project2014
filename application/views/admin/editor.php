@@ -50,10 +50,10 @@
 									<td><a href="#"><?=$new->author;?></a></td>
 									<td><?=$new->date;?></td>
 									<td>
-										<button class="btn btn-success btn-sm" href="#" data-toggle="modal" data-target="#editArticle" style="margin-bottom: 3px; width: 110px;">Редактировать</button>
-										<button class="btn btn-danger btn-sm" href="#" data-toggle="modal" data-target="#deleteArticle" style="margin-bottom: 3px; width: 110px;">
+										<a class="btn btn-success btn-sm" href="<?=base_url();?>/index.php/news/edit/<?=$new->id;?>" data-toggle="modal" data-target="#editArticle" style="margin-bottom: 3px; width: 110px;">Редактировать</a>
+										<a class="btn btn-danger btn-sm" href="<?=base_url();?>/index.php/news/delete//<?=$new->id;?>" data-toggle="modal" data-target="#deleteArticle" style="margin-bottom: 3px; width: 110px;">
 											<span class="glyphicon glyphicon-trash"></span> Удалить
-										</button>
+										</a>
 									</td>
 								</tr>
 								<?php }?>
