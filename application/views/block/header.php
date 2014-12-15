@@ -12,7 +12,7 @@
   <script src="<?=base_url();?>js/bootstrap.min.js"></script>
 
   <style type="text/css">
-      .myButton1 { padding-left: 300px; padding-top: 15px; }
+      .myButton1 { padding-left: 200px; padding-top: 15px; }
       .myButton2 { padding-left: 5px; padding-top: 15px; }
   </style>
 
