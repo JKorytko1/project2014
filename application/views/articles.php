@@ -52,17 +52,6 @@
  і «повільних» функцій асимптотичного зображення розв'язків.</big></p>
  </br>
  
- <h3><a href="<?=base_url();?>assets/articles/Breslavsky Tatarinova Morachkovsky.pdf" target="blank">High-temperature creep and long-term strength 
- of structural elements under cyclic loading</a></h3>
-<p><big><i><b>D. V. Breslavsky, O. K. Morachkovsky,
-and O. A. Tatarinova</b></i></big></p>
- </br>
- <big><p>We present a method for solving problems of high-temperature cyclic creep and damage 
-accumulation in structural elements. The asymptotic expansion and averaging techniques both over
- the period of forced vibrations of a body and that of slowly varying loads are used for the set of  
- equations describing the creep and damage processes in thin-walled structural elements.  </p>
- </big>
- </br>
  
 
  
@@ -89,31 +78,9 @@ accumulation in structural elements. The asymptotic expansion and averaging tech
  результаты экспериментального изучения моделей лопаток. Приводятся результаты расчетов. </p></big>
  </br>
  
-  <h3><a href="<?=base_url();?>assets/articles/Breslavsky_Numerical_Calculations.pdf" target="blank">Numerical calculations of creep damage at cyclic 
-  loading by use of tensor damage parameter model</a></h3>
- <p><big><i><b>D. V. Breslavsky, O. K. Morachkovsky, YU. Korytko,<p> V. Mietielov, O. Tatarinova</p>
-</b></i></big></p>
- </br>
- <big><p>Creep  of  cyclically  loaded  bodies  and  their  fracture  due  to  creep  mechanisms  are  studied.  Creep 
-damage equations are built by use of tensor parameter for titanium alloy.  Similar equations were 
- derived  for  stress  cyclic  varying using the method of asymptotic  expansions  and averaging in a  
- period.  2d  plane  stress  problems  were  solved  by  FEM  and  fields  of  stress,  strain,  displacement, 
- damage parameter components as well as time to rupture values were obtained. </p></big>
- </br>
  
- <h3><a href="<?=base_url();?>assets/articles/HIGH TEMPERATURE CREEP AND DAMAGE ACCUMULATION IN.pdf" target="blank">High temperature creep and damage accumulation 
- in cyclically loaded axisymmetrical bodies of revolution</p></a></h3>
- <p><big><i><b>D. V. Breslavsky, O. K. Morachkovsky, YU. Korytko</p>
-</b></i></big></p>
- </br>
- <big><p>The paper presents the constitutive equations as well as the data of numerical
-simulation of creep-damage problems of cyclically loaded and heated axisymmetrical structural members. 
- The procedure of constitutive equations deriving is discussed. The experimental and  
- numerical data have been obtained for cyclically heated specimens made from highquality 
- steel were compared in order to verify the flow rule and damage parameter equation. The problem of   
- creep and damage accumulation in the nipples of the regenerator for catalytic cracking 
- of petroleum was analyzed with consideration of different temperature cycle parameters. </p></big>
- </br>
+ 
+
  
   <h3><a href="<?=base_url();?>assets/articles/Korytko.pdf" target="blank">Исследования ползучести и длительной прочности 
   трехканальной охлаждаемой лопатки газотурбинного двигателя</p></a></h3>
