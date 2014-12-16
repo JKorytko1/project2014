@@ -16,12 +16,12 @@
   		<div class="col-md-10 col-md-offset-2">
   			
 			<!--<div class="blog-post"> -->
-	  			<h3 align="center"><a href="Sergeevskie_reading.php" target="_self">Сергеевские чтения</a></h3>
+	  			<h3 align="center"><a href="conference/Sergeevskie_reading.php" target="_self">Сергеевские чтения</a></h3>
 				<div align="justify" style="text-indent:25px"><img src="<?=base_url();?>assets/images/sergeev.png "alt="" align="left"  height=120 hspace=20><big>12 Сентября 2014 г. состоится научно-техническая конференция
 				 "Сергеевские чтения", посвящення 100-летию со дня рождения академика В.Г.Сергеева и 50-летию создания специальности 
 				 "Динамика полета и управление". Приглашаем всех желающих принять участие в конференции!</big></div>
-				<div align="justify" style="text-indent:25px"><big>Начало конференции - 10.00 в 12 аудитории ректорского корпуса НТУ "ХПИ".</big><a href="conference/Sergeevskie_reading.php"><big>Подробнее</a></big> <br><br><br></div>
-				
+				<div align="justify" style="text-indent:25px"><big>Начало конференции - 10.00 в 12 аудитории ректорского корпуса НТУ "ХПИ". </big><a href="conference/Sergeevskie_reading.php"><big>Подробнее</a></big> <br><br><br></div>
+				</br>
 			<!--	</div>-->
 			<div >
 				<h3 align="center"><a href="MMTT25.php" target="_self">XXV международная научная конференция - математические методы в технике и технологиях(ММТТ25)</a></h3>
