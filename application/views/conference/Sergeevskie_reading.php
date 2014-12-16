@@ -12,7 +12,7 @@
 <h3> <p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center"><a href="" target="_self">Сергеевские чтения</a></p></h3>
 <p align="justify"> <div  style="margin-left: 300px; margin-right: 200px;" align="center"><big><strong>Посвящается 100-летию со дня рождения Академика В.Г.Сергеева</div>
  <div align="center">и 50-летию создания в ХПИ специальности «Динамика полета и управление» </strong></div> <div align="center"> 11-12 сентября 2014 г.</big></div></p>
-<h4><p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center"> <a href="" target="_self"><STRONG> АКАДЕМИК ВЛАДИМИР ГРИГОРЬЕВИЧ СЕРГЕЕВ – ГЛАВНЫЙ КОНСТРУКТОР</STRONG></a></p></h4>
+<h4><p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center"> АКАДЕМИК ВЛАДИМИР ГРИГОРЬЕВИЧ СЕРГЕЕВ – ГЛАВНЫЙ КОНСТРУКТОР</p></h4>
 <p ><div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"> <img src="<?=base_url();?>assets/images/sergeev.png" alt="" align="left"  height=150 hspace=20><big>В 2014 году 
 	отмечается 100-летие со дня рождения выдающегося Главного конструктора и руководителя
 работ по созданию систем управления межконтинентальных баллистических ракет, ракет-носителей и космических аппаратов, академика, почетного харьковчанина
@@ -320,4 +320,5 @@
 		</tr>
 
 	</table></big>
+	</br></br>
 </div>
