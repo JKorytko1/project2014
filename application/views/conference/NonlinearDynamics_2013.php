@@ -11,7 +11,7 @@
 
 
 <h3> <p  style="margin-left: 300px; margin-right: 200px;" ALIGN="center"><a href="" target="_self">Четвертая Международная конференция "Нелинейная динамика - 2013"</a></p></h3>
-<h4><p style="margin-left: 300px; margin-right: 200px;" align="center"><a href="" target="_self"><STRONG>Уважаемые участники 4-четвертой международной конференции "ND-ХПИ-2013"</STRONG></a></p></h4>
+<h4><p style="margin-left: 300px; margin-right: 200px;" align="center">Уважаемые участники 4-четвертой международной конференции "ND-ХПИ-2013"</p></h4>
 <div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"><big>Для меня большая честь и удовольствие приветствовать участников четвертого
 Международная конференция "Нелинейная динамика-2013", который пройдет 19-22 июня 2013 года, в Севастополе(Украина) .</div>
 <div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify">С это можно сделать вывод, что нелинейная динамика является одним из наиболее важных и
@@ -41,11 +41,11 @@
 <div style="margin-left: 300px; margin-right: 200px;" align="left">Председатель оргкомитета,</div>
 <div style="margin-left: 300px; margin-right: 200px;" align="left"><strong>Профессор Л.Л.Товажнянский</big></strong></div>
 
-<h4><p style="margin-left: 300px; margin-right: 200px;" align="center"><a href="" target="_self"><STRONG>Цель конференции</STRONG></a></p></h4>
+<h4><p style="margin-left: 300px; margin-right: 200px;" align="center">Цель конференции</p></h4>
 
 <div style="margin-left: 300px; margin-right: 200px;text-indent:25px;" align="justify"><big>Цель конференции является объединение усилий ученых и инженеров, чтобы представить и 
 	бсудить последние события в различных задачах нелинейной динамики.</big></div>
-<h4><p style="margin-left: 300px; margin-right: 200px;" align="center"><a href="" target="_self"><STRONG>Научный комитет</STRONG></a></p></h4>
+<h4><p style="margin-left: 300px; margin-right: 200px;" align="center">Научный комитет</p></h4>
 
 <div style="margin-left: 300px; margin-right: 200px;"align="justify"><big>
 	<ol>
@@ -89,7 +89,7 @@
 		<li>Академик РАН, профессор Журавлев В. Ф.. (Москва, Россия)</li>
 	</ol></big>
 </div>
-<h4><p style="margin-left: 300px; margin-right: 200px;" align="center"><a href="" target="_self"><STRONG>Научный комитет по мини-симпозиум «ползучести и пластичности при циклических загрузках»</STRONG></a></p></h4>
+<h4><p style="margin-left: 300px; margin-right: 200px;" align="center">Научный комитет по мини-симпозиум «ползучести и пластичности при циклических загрузках»</p></h4>
 <div style="margin-left: 300px; margin-right: 200px;"align="justify"><big>
 	<ol>
 		<li>Профессор Алтенбач Х. (Галле, Германия) - сопредседатель</li>
@@ -104,7 +104,7 @@
 		<li>Профессор Ясный П. (Тернополь, Украина)</li>
 	</ol></big>
 </div>
-<h4><p style="margin-left: 300px; margin-right: 200px;" align="center"><a href="" target="_self"><STRONG>Организационный комитет</STRONG></a></p></h4>
+<h4><p style="margin-left: 300px; margin-right: 200px;" align="center">Организационный комитет</p></h4>
 <div style="margin-left: 300px; margin-right: 200px;"align="justify"><big>
 	<ol>
 		<li>Профессор Товажнянский Л.Л., ректор НТУ "ХПИ" - председатель</li>
@@ -117,3 +117,4 @@
 		<li>Профессор Морачковский О.К.</li>
 	</ol></big>
 </div>
+</br></br>
