@@ -1,4 +1,4 @@
-<!-- Контент -->	
+﻿<!-- Контент -->	
 <div class="container" >
    <div class="row" >
       <div class="col-md-10 col-md-offset-2">
@@ -48,7 +48,7 @@
 
           	  <h2 class="blog-post-title">Группа СПУ "В Контакте"</h2>
           	  <h4 class="blog-post-meta">Октябрь 21, 2014 by Admin</h4>
-          	  <img src="<?=base_url();?>assets/images/spu.jpg" style="padding: 5px 5px 0px 0px; float:left;" width="250" height="200" />
+          	  <img src="<?=base_url();?>assets/images/LogoSPU.psd" style="padding: 5px 5px 0px 0px; float:left;" width="250" height="200" />
            	  <p align="justify"><big> В социальной сети "В контакте" существует активно развивающаяся группа. 
           	  В ней Вы можете найти интересную информацию и пообщаться с преподавателями кафедры.
            	  Присоединяйтесь! Адрес: <a href="http://vk.com/official_spu" target="_blank">http://vk.com/official_spu</a> </big></p>    -->        	
